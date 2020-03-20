@@ -2,21 +2,51 @@
 
 ## Supervision Yannick Dufresne, Université Laval
 
-Afin de faciliter au maximum votre cheminement scolaire et votre introduction à mon équipe de travail, je vous offre ce repository Github. Il est accompagné d'un dossier Dropbox qui vous sera partagé. Ce README permettra de détailler tous les éléments de ces différents dossiers. N'ayez crainte, c'est très simple :) 
+Afin de faciliter au maximum votre cheminement scolaire et votre introduction à notre équipe de travail, je vous invite à télécharger ce repository Github. Il est accompagné d'un dossier Dropbox que je vous partagerai. 
+Le fichier README (que vous consultez actuellement) permettra de détailler tous les éléments des différents dossiers Github et Dropbox. 
+N'ayez crainte, ça finira rapidement par être très simple!
 
-D'abord, voici les première étapes à suivre au départ d’une supervision :
-1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur;
-2. Créer un dossier CLESSN dans votre Dropbox;
-3. Télécharger ce repository (trousse_etudiante) dans votre Dropbox;
-4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante que je vous ai partagé À L'INTÉRIEUR du repository;
-5. Installer Slack;
-6. Installer R (R servira à l’analyse de données); 
-7. Installer LaTeX (Latex est une plateforme de création de documents);
-8. Installer RStudio (RStudio est le logiciel qui héberge R et LaTeX).
+### D'abord, voici les première étapes à suivre au départ d’une supervision :
 
-La logique du dossier Dropbox, par fichiers :
+1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (17,50$CA/mois quand on prend l'abonnement annuel);
+2. Créer un dossier «CLESSN» dans votre Dropbox (il servira à entreposer les projets de notre équipe);
+3. Créer un dossier «Maitrise» dans votre Dropbox (il servira à entreposer tout ce qui a trait à vos études);
+4. Télécharger ce repository (trousse_etudiante) dans votre Dropbox (Ajouter-le à l'intérieur du dossier «Maitrise»);
+5. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous est partagé À L'INTÉRIEUR du repository;
+6. Installer Slack (https://slack.com/intl/fr-ca/);
+7. Installer R, qui servira à l’analyse de données (https://www.r-project.org/); 
+8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
+9. Installer RStudio, le logiciel qui héberge R et LaTeX (https://rstudio.com/products/rstudio/download/).
 
-1. Dans le fichier Devis se trouve le gabarit Latex à partir duquel vous rédigerez votre mémoire. Il contient également une illustration du cycle de la recherche, qui constitue le squellette de votre recherche.
-2. Le fichier Méthode contient un guide pour l’utilisation de Latex et trois "cheat sheet" pour vous familiariser avec les fonctions principales de R et de Latex.
-3. Le fichier Théorie contient un fichier Excel à partir duquel se construit la revue de littérature. Ce fichier permettra de classifier les sources en ordre de pertinence et d’importance pour votre recherche.
-4. Le fichier Divers est pour vous, vous pouvez y mettre ce que vous y voulez en relation avec votre projet.
+### La logique du dossier Github (trousse_etudiante), fichier par fichier:
+
+1. Mémoire;
+  - Article 1
+    - _divers
+    - code
+    - writing
+  - Article 2
+    - _divers
+    - code
+    - writing
+  - devis
+  - index
+2. README.md
+3. .gitignore
+
+### La logique du dossier Dropbox (_SharedFolder_trousseEtudiante), fichier par fichier :
+
+1. _divers
+  - CheatSheets
+  - Outils
+  - Recueil
+2. Bourses
+3. Conferences
+4. Formations
+  - Datacamp
+  - ICPSR
+5. Litterature
+  - bibfile.bib
+
+
+
