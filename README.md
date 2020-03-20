@@ -1,12 +1,12 @@
-# Bonjour cher(chère) étudiant(e),
+# Bonjour cher(chère) étudiant(e)
 
-## Supervision Yannick Dufresne, Université Laval
+## Supervision par Yannick Dufresne, Université Laval
 
 Afin de faciliter au maximum votre cheminement scolaire et votre introduction à notre équipe de travail, je vous invite à télécharger ce repository Github. Il est accompagné d'un dossier Dropbox que je vous partagerai. 
 Le fichier README (que vous consultez actuellement) permettra de détailler tous les éléments des différents dossiers Github et Dropbox. 
 N'ayez crainte, ça finira rapidement par être très simple!
 
-### D'abord, voici les première étapes à suivre au départ d’une supervision :
+### D'abord, voici les premières étapes à suivre au départ d’une supervision :
 
 1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (17,50$CA/mois quand on prend l'abonnement annuel);
 2. Créer un dossier «CLESSN» dans votre Dropbox (il servira à entreposer les projets de notre équipe);
@@ -20,7 +20,9 @@ N'ayez crainte, ça finira rapidement par être très simple!
 
 ### La logique du dossier Github (trousse_etudiante), fichier par fichier:
 
-1. Mémoire;
+![](/Users/adrien/Dropbox/Travail/Universite_Laval/CLESSN/Trousse_etudiante/_SharedFolder_trousseEtudiante/_divers/Outils/path1.png)
+
+1. Mémoire
   - Article 1
     - _divers
     - code
