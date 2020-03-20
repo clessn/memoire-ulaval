@@ -1,0 +1,152 @@
+---
+auteur: 'Adrien Cloutier' # Entrer le nom de l'auteur entre ' '
+date: 'August 2020' # Entrer la date du dépôt entre ' '
+directeur: 'Yannick Dufresne' # Entrer le nom du directeur/directrice de recherche entre ' '
+direction: 'directeur' # Entrer 'directeur' ou 'directrice', en fonction du sexe du directeur/directrice de recherche, sans majuscule
+#codirecteur: 'Un Tel' # Entrer le nom du codirecteur/codirectrice de recherche entre ' '
+#codirection: 'codirecteur-ice' # Entrer 'codirecteur' ou 'codirectrice', en fonction du sexe du codirecteur/codirectrice de recherche
+departement: 'science politique' # Entrer le nom du département délivrant le diplôme entre ' ', sans majuscule
+grade: 'M.A.' # Entrer le type de grade entre ' ' (M.A., M.Sc., PhD, etc.)
+diplome: 'Maîtrise' # Entrer le nom du diplôme entre ' ' (Maîtrise, Doctorat, etc.)
+type: 'Mémoire' # Entrer le type de projet entre ' ' (Essai, mémoire, thèse, etc.)
+titre: "High et Down de l'opinion publique" # Entrer le titre entre ' '
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+output: 
+  thesisdown::thesis_pdf: 
+      latex_engine: xelatex
+bibliography: bib/memoire_ACloutier.bib
+csl: csl/apa.csl
+lot: true
+lof: true
+# space_between_paragraphs: true
+# Delete the # at the beginning of the previous line if you'd like to have a blank new line between each paragraph
+header-includes:
+- \usepackage{setspace}
+- \usepackage[labelfont=bf,textfont=md]{caption}
+- \usepackage{float}
+abstract: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
+resume: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-resume.Rmd"), collapse = '\n  ')`
+remerciements: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00--remerciements.Rmd"), collapse = '\n  ')`
+---
+
+<!--
+If you receive a duplicate label error after knitting, make sure to delete the index.Rmd file and then knit again.
+-->
+
+```{r include_packages, include = FALSE}
+# This chunk ensures that the thesisdown package is installed and loaded. This thesisdown package includes the template files for the thesis.
+if(!require(devtools))
+  install.packages("devtools", repos = "http://cran.rstudio.com")
+if(!require(thesisdown))
+  devtools::install_github("ismayc/thesisdown")
+library(thesisdown)
+```
+
+<!-- You'll need to include the order that you'd like Rmd files to appear in the _bookdown.yml file for
+PDF files and also delete the # before rmd_files: there.  You'll want to not include 00(two-hyphens)prelim.Rmd
+and 00-abstract.Rmd since they are handled in the YAML above differently for the PDF version.
+-->
+
+<!-- The {.unnumbered} option here means that the introduction will be "Chapter 0." You can also use {-} for no numbers
+on chapters.
+-->
+
+\doublespace
+
+# Introduction {.unnumbered}
+
+<!--chapter:end:index.Rmd-->
+
+
+
+# Rédiger le premier article du mémoire ici. 
+
+<!--chapter:end:01-article1.Rmd-->
+
+
+
+# Rédiger le second article du mémoire ici.
+
+<!--chapter:end:02-article2.Rmd-->
+
+
+
+# Rédiger la conclusion commune aux deux articles ici.
+
+
+<!--chapter:end:03-conclusion.Rmd-->
+
+`r if(knitr:::is_latex_output()) '\\appendix'`
+
+<!-- `r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-}'`  -->
+
+<!-- This first appendix includes all of the R chunks of code that were hidden throughout the document (using the `include = FALSE` chunk tag) to help with readibility and/or setup. -->
+
+<!-- **In the main Rmd file** -->
+
+```{r ref.label='include_packages', results='hide', echo = FALSE}
+```
+
+<!-- **In Chapter \@ref(ref-labels):** -->
+
+```{r ref.label='include_packages_2', results='hide', echo = FALSE}
+```
+
+# Appendix {-} Tiré du dossier index/figure
+
+```{r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.pos="H", fig.cap="\\label{fig:factorAnalysis}Factorial analysis of variables used to build the economic management scale among voters, with data taken from the 1998 and 2007 Latinobarometers.", echo=FALSE}
+knitr::include_graphics("")
+```
+<!-- 
+```{r, out.width="0.5\\linewidth", include=TRUE, fig.align="center", fig.cap="\\label{fig:scaleVoters}Factorial analysis of variables used to build the economic management scale among voters, with data taken from the 1998 and 2007 Latinobarometers.", echo=FALSE}
+knitr::include_graphics("/Users/maximeblanchard/Dropbox/Recherche/ColombiaReform/Markdown/index/figure/Scales_econ_combine.pdf")
+```
+-->
+
+<!--chapter:end:04-appendix.Rmd-->
+
+<!--
+The bib chunk below must go last in this document according to how R Markdown renders.  More info is at http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html
+-->
+
+\backmatter
+
+<!-- 
+If you'd like to change the name of the bibliography to something else,
+delete "References" and replace it.
+-->
+
+# References {-}
+<!--
+This manually sets the header for this unnumbered chapter.
+-->
+\markboth{References}{References}
+<!--
+To remove the indentation of the first entry.
+-->
+\noindent
+
+<!--
+To create a hanging indent and spacing between entries.  These three lines may need to be removed for styles that don't require the hanging indent.
+-->
+
+\setlength{\parindent}{-0.20in}
+\setlength{\leftskip}{0.20in}
+\setlength{\parskip}{8pt}
+
+
+<!--
+This is just for testing with more citations for the bibliography at the end.  Add other entries into the list here if you'd like them to appear in the bibliography even if they weren't explicitly cited in the document.
+-->
+
+---
+nocite: | 
+
+...
+
+<!--chapter:end:99-references.Rmd-->
+

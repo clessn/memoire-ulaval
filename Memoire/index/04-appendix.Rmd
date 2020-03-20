@@ -1,0 +1,26 @@
+`r if(knitr:::is_latex_output()) '\\appendix'`
+
+<!-- `r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-}'`  -->
+
+<!-- This first appendix includes all of the R chunks of code that were hidden throughout the document (using the `include = FALSE` chunk tag) to help with readibility and/or setup. -->
+
+<!-- **In the main Rmd file** -->
+
+```{r ref.label='include_packages', results='hide', echo = FALSE}
+```
+
+<!-- **In Chapter \@ref(ref-labels):** -->
+
+```{r ref.label='include_packages_2', results='hide', echo = FALSE}
+```
+
+# Appendix {-} Tiré du dossier index/figure
+
+```{r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.pos="H", fig.cap="\\label{fig:factorAnalysis}Factorial analysis of variables used to build the economic management scale among voters, with data taken from the 1998 and 2007 Latinobarometers.", echo=FALSE}
+knitr::include_graphics("")
+```
+<!-- 
+```{r, out.width="0.5\\linewidth", include=TRUE, fig.align="center", fig.cap="\\label{fig:scaleVoters}Factorial analysis of variables used to build the economic management scale among voters, with data taken from the 1998 and 2007 Latinobarometers.", echo=FALSE}
+knitr::include_graphics("/Users/maximeblanchard/Dropbox/Recherche/ColombiaReform/Markdown/index/figure/Scales_econ_combine.pdf")
+```
+-->
