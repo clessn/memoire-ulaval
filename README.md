@@ -1,3 +1,7 @@
+# Bonjour cher(chère) étudiant(e),
+
+Afin de faciliter au maximum votre cheminement scolaire et votre introduction à mon équipe de travail, je vous offre ce repo Github. Il est accompagné d'un dossier Dropbox qui vous sera partagé. Ce README permettra de détaillé tous les éléments de ces différents dossiers. 
+
 Supervision
 Yannick Dufresne Université Laval
 
