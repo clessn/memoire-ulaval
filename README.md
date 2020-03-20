@@ -1,15 +1,18 @@
 # Bonjour cher(chère) étudiant(e),
 
-Afin de faciliter au maximum votre cheminement scolaire et votre introduction à mon équipe de travail, je vous offre ce repo Github. Il est accompagné d'un dossier Dropbox qui vous sera partagé. Ce README permettra de détaillé tous les éléments de ces différents dossiers. 
+## Supervision Yannick Dufresne, Université Laval
 
-Supervision
-Yannick Dufresne Université Laval
+Afin de faciliter au maximum votre cheminement scolaire et votre introduction à mon équipe de travail, je vous offre ce repository Github. Il est accompagné d'un dossier Dropbox qui vous sera partagé. Ce README permettra de détailler tous les éléments de ces différents dossiers. N'ayez crainte, c'est très simple :) 
 
-Voici les étapes à suivre au départ d’une supervision :
-1. Installer Slack.
-2. Acheter un Dropbox professionnel (voir ci-bas pour l’explication du contenu du dossier).
-3. Installer RStudio. R servira à l’analyse de données. Latex est une plateforme de création de documents. RStudio est le logiciel qui héberge ces deux fonctions.
-4. Commencer à lire sur la formation en analyse quantitative ICPSR, à Ann Arbor, au Michigan. Vous serez incité à y aller.
+D'abord, voici les première étapes à suivre au départ d’une supervision :
+1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur;
+2. Créer un dossier CLESSN dans votre Dropbox;
+3. Télécharger ce repository (trousse_etudiante) dans votre Dropbox;
+4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante que je vous ai partagé À L'INTÉRIEUR du repository;
+5. Installer Slack;
+6. Installer R (R servira à l’analyse de données); 
+7. Installer LaTeX (Latex est une plateforme de création de documents);
+8. Installer RStudio (RStudio est le logiciel qui héberge R et LaTeX).
 
 La logique du dossier Dropbox, par fichiers :
 
