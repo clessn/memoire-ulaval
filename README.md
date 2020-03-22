@@ -79,20 +79,20 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
   - Dimanche, 16h30-16h45 (scrum de 15 minutes)
   
   6. Si vous êtes à distance, les rencontre (scrum) se font aussi sur Slack (bien qu'il soit préférable d'être à l'Université le plus régulièrement possible). D'ailleurs, Slack est notre outil de communication principal. Déjà, vous pouvez demander d'être ajouter aux chaines suivantes:
-  1. 00_calendrier (pour recevoir les notifications du Google Calendar de la CLESSN)
-  2. 00_communication (pour la communication de la chaire)
-  3. 00_financement (pour le financement de la chaire)
-  4. 00_général (pour les rencontres, et les discussions générales)
-  5. 00_git (pour suivre l'évolution des commits git)
-  6. 00_mardi-metho (pour organiser les mardis méthos)
-  7. 00_publication (pour suivre l'évolution des publications de la chaire)
-  8. 99_sante-bien-etre (pour assurer la santé et le bien-être à la chaire!)
+  - 00_calendrier (pour recevoir les notifications du Google Calendar de la CLESSN)
+  - 00_communication (pour la communication de la chaire)
+  - 00_financement (pour le financement de la chaire)
+  - 00_général (pour les rencontres, et les discussions générales)
+  - 00_git (pour suivre l'évolution des commits git)
+  - 00_mardi-metho (pour organiser les mardis méthos)
+  - 00_publication (pour suivre l'évolution des publications de la chaire)
+  - 99_sante-bien-etre (pour assurer la santé et le bien-être à la chaire!)
   
   7. Il existe beaucoup d'autres chaines Slack. Plusieurs sont publiques (vous pouvez les trouvez vous-même et vous y ajouter en cliquant sur «Canaux»), d'autres sont privées (vous devez demandez d'y être ajoutées). À la CLESSN, les chaines débutant par 00 sont les chaines de bases. D'autres chaines existes ensuite selon les projets (01, 02, etc.), et vous y serez ajouté selon votre participation à ceux-ci. Les chaines 98 sont dédiées à la discussion des méthodologies. Les chaines 99 sont des chaines «autres», parfois plus ludiques. Voici, d'ailleurs, certaines chaines qui pourraient vous intéresser (il y en a beaucoup d'autres!):
-  1. rss_985 (amateur de Paul Archand? Retrouvez chaque matin toutes les chroniques de son émission Puisqu'il faut se lever!)
-  2. rss_lapresse (en temps réel, vous recevrez des notifications des nouvelles politiques de La Presse)
-  3. 98_méthode_analyse-textuelle (vous avez des questions à propos de l'analyse textuelle? C'est l'endroit!)
-  4. 99_random (pour tout... et rien)
+  - rss_985 (amateur de Paul Archand? Retrouvez chaque matin toutes les chroniques de son émission Puisqu'il faut se lever!)
+  - rss_lapresse (en temps réel, vous recevrez des notifications des nouvelles politiques de La Presse)
+  - 98_méthode_analyse-textuelle (vous avez des questions à propos de l'analyse textuelle? C'est l'endroit!)
+  - 99_random (pour tout... et rien)
 
 Je vous souhaite d'excellentes études. \\
 Je vous l'assure, le temps passera très vite!
