@@ -23,19 +23,19 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 ### La logique du dossier Github (trousse_etudiante), fichier par fichier:
 
-1. Mémoire (dans ce dossier, vous pouvez commencer la rédaction de votre mémoire)
-  - Article 1 (commençons d'abord par l'article 1)
+1. **Mémoire** (dans ce dossier, vous pouvez commencer la rédaction de votre mémoire)
+  - *Article 1* (commençons d'abord par l'article 1)
     - _divers
     - code
     - writing
-  - Article 2 (puis par l'article 2)
+  - *Article 2* (puis par l'article 2)
     - _divers
     - code
     - writing
-  - devis (puisque vous devrez défendre votre devis de recherche, mieux vaut prévoir un dossier où vous le rédigerez)
-  - index (dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre!)
-2. README.md (tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instruction du dossier)
-3. .gitignore (le fichier texte caché .gitignore est nécessaire pour ignorer le téléchargement de certains fichier à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré par le .gitignore.)
+  - *devis* (puisque vous devrez défendre votre devis de recherche, mieux vaut prévoir un dossier où vous le rédigerez)
+  - *index* (dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre!)
+2. **README.md** (tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instruction du dossier)
+3. **.gitignore** (le fichier texte caché .gitignore est nécessaire pour ignorer le téléchargement de certains fichier à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré par le .gitignore.)
 
 ### La logique du dossier Dropbox (_SharedFolder_trousseEtudiante), fichier par fichier :
 
