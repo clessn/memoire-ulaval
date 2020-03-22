@@ -57,7 +57,11 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 1. Vos données doivent **en tout temps** demeurer dans le _SharedFolder_trousseEtudiante. Comme mentionné, ce dossier Dropbox est ignoré par le .gitignore, c'est-à-dire qu'il ne sera **jamais** partagé en ligne, même lors d'un git push. Ainsi, vos données resteront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe.
 
+### Git et Github
+
 2. D'ailleurs, pour bien saisir la logique de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine Youtube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Vous êtes également invité à compléter le cours Datacamp *Introduction to Git*.
+
+### Datacamp
 
 3. Parlant de Datacamp, voici une série de cours utiles à l'introduction à R:
   - Introduction to R
@@ -69,7 +73,11 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
   - Data Visualization with ggplot2 (Part 1)
   - Text Mining with Bag-of-Words in R
   
+### Lectures
+  
   4. Finalement, vous pouvez déjà vous lancer dans la lecture de KKV. **Designing Social Inquiry (1994)** est un ouvrage d'introduction à la méthodologie de recherche en science sociale rédigé par Gary King, Robert Keohane et Sidney Verba (le surnom KKV vient des initiales de leur nom de famille!). Tous les étudiant.es de la CLESSN l'ont déjà lu une fois... ou plus! Le recueil «Devis de recherche», monté et utilisé pour le cours de Devis de recherche, est également une bonne lecture à faire. Vous le retrouverez dans _SharedFolder_trousseEtudiante -> _divers -> Recueils.
+  
+### Rencontres
   
   5. Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pensant qu'il s'agissait d'un grand scientifique anglais? Aucune crainte! Vous êtes au bon endroit pour vous initier et rapidement développer une expertise dans les sciences sociales numériques. Plusieurs étudiants de l'équipe n'avaient jamais codé avant leur arrivée! Pour apprendre rapidement, le mieux est de commencer maintenant, et d'en faire un peu tous les jours. Quelques pages de KKV, une vidéo YouTube, un cours de Datacamp, et surtout, la participation au scrum! Nous avons 5 rencontres hebdomadaires, et vous êtes bien sûr invité à vous joindre à nous en personne ou via Slack (à distance, les rencontres se font dans la chaine **00_général**). Voici les heures de rencontre:
   - Mardi, 15h30-16h30 (*Mardi métho*, on fait des lectures et on jase méthodologie)
@@ -77,6 +85,8 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
   - Jeudi, 15h30-16h30 (*jeudi 3P*, on présente un ou des projets plus en détail, et on les commente en équipe)
   - Jeudi, 16h30-16h45 (scrum de 15 minutes)
   - Dimanche, 16h30-16h45 (scrum de 15 minutes)
+  
+### Slack
   
   6. Si vous êtes à distance, les rencontres (scrums) se font aussi sur Slack (bien qu'il soit préférable d'être à l'Université le plus régulièrement possible). D'ailleurs, Slack est notre outil de communication principal. Déjà, vous pouvez demander d'être ajouté aux chaines suivantes:
   - 00_calendrier (pour recevoir les notifications du Google Calendar de la CLESSN)
