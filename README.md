@@ -59,7 +59,7 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 ### Git et Github
 
-2. D'ailleurs, pour bien saisir la logique de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine Youtube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Vous êtes également invité à compléter le cours Datacamp *Introduction to Git*.
+2. D'ailleurs, pour bien saisir la logique de Git et de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine Youtube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Vous êtes également invité à compléter le cours Datacamp *Introduction to Git*.
 
 ### Datacamp
 
@@ -103,6 +103,10 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
   - rss_lapresse (en temps réel, vous recevrez des notifications des nouvelles politiques de La Presse)
   - 98_méthode_analyse-textuelle (vous avez des questions à propos de l'analyse textuelle? C'est l'endroit!)
   - 99_random (pour tout... et rien)
+  
+### Panique?
+
+Bien sûr que non! La CLESSN travaille dans l'objectif d'optimiser constamment son travail. Tous les étudiants ont réussi, en avançant pas-à-pas dans leur apprentissage, à développer les outils essentiels à leur cheminement scolaire et, en plus, à apporter leur propre contribution à la chaire. Pas de panique, donc, si vous n'avez jamais codé et si tout ça semble complexe! C'est complètement à votre portée. 
 
 Je vous souhaite d'excellentes études.
 Je vous l'assure, le temps passera très vite!
