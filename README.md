@@ -136,7 +136,13 @@ https://www.grcp.ulaval.ca/ressources/formulaires
 7. Département de science politique (en tout temps): Ce n'est pas un groupe de recherche, mais le département offre 2000$ par année pour la formation méthodologique.
 https://repertoire.bbaf.ulaval.ca/bourse/52857/bourses-de-formations-methodologiques-hiver-2020
 
-Il existe beaucoup d'autres bourses, à vous maintenant de fouiller et de me faire part de vos trouvailles! Membres Desjardins, sâchez que la Caisse offre des bourses d'études chaque année pendant le mois de mars. (https://www.boursesdesjardins.com/fr?utm_campaign=vanity-url&utm_medium=vanity&utm_source=desjardins&utm_term=/bourses/index.jsp)
+Il existe beaucoup d'autres bourses, à vous maintenant de fouiller et à me faire part de vos trouvailles!
+
+### Cheminement «normal»
+
+Sachez aussi que la Faculté des sciences sociales offre un financement de 1400\$ en trois versements pour tous les étudiants qui effectuent leur Maîtrise en science politique dans des temps considérés comme étant «normaux» par la Faculté: https://www.bourses.fss.ulaval.ca/connexion. C'est-à-dire que vous pouvez réclamer 280\$ si vous complétez l'ensemble de vos cours en 3 sessions, un autre 420\$ si votre projet de recherche est défendu avant la 4e session, et un dernier 700$ si votre mémoire est déposé avant la 6e session. Conseil d'ami: prenez en considération ces délais, mais ne laissez pas l'argent associé vous aveugler. Mieux vaut un bon projet bien réfléchi, même s'il est défendu la 5e session.
+
+![](Memoire/_divers/cheminementNormal.png)
 
 ### Panique?
 
