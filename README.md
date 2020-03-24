@@ -24,7 +24,7 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 ### La logique du dossier Github (trousse_etudiante), fichier par fichier:
 
-1. **Mémoire** (dans ce dossier, vous pouvez commencer la rédaction de votre mémoire)
+1. **Memoire** (dans ce dossier, vous pouvez commencer la rédaction de votre mémoire)
   - *_divers* (tous les divers éléments intéressants ou nécessaires à votre mémoire, mais pas les données)
   - *article1* (commençons par la rédaction de l'article 1)
     - _graphs (il s'agit d'une exception, mais ici se trouveront vos graphiques finaux en format png à être insérés dans votre article)
