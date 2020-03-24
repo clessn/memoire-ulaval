@@ -3,7 +3,7 @@
 ## Supervision par Yannick Dufresne, Université Laval
 
 Afin de faciliter au maximum votre cheminement scolaire et votre introduction à notre équipe de travail, je vous invite à télécharger ce repository Github. Il est accompagné d'un dossier Dropbox qui vous sera partagé. 
-Le fichier README (que vous consultez actuellement) permettra de détailler tous les éléments des différents dossiers Github et Dropbox. 
+Le fichier README (que vous consultez actuellement) permet de détailler tous les éléments des différents dossiers Github et Dropbox, en plus d'expliciter le mode d'emploi de notre collaboration. 
 N'ayez crainte, ça finira rapidement par être très simple!
 
 ### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
@@ -34,7 +34,7 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
     - _graphs
     - code
     - writing
-  - *devis* (puisque vous devrez défendre votre devis de recherche devant votre comité, mieux vaut prévoir un dossier où vous le rédigerez)
+  - *devis* (puisque vous devrez défendre votre devis de recherche devant votre comité, mieux vaut prévoir un dossier où vous le rédigerez. Pour l'instant, vous y retrouverez le gabarit officiel en format LaTeX de l'Ulaval.)
   - *index* (dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre!)
 2. **README.md** (tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instructions du dossier)
 3. **.gitignore** (le fichier texte caché .gitignore est nécessaire pour ignorer la mise en ligne de certains fichiers à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré par le .gitignore. Allez voir par vous-même!)
