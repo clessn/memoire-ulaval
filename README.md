@@ -6,17 +6,18 @@ Afin de faciliter au maximum votre cheminement scolaire et votre introduction à
 Le fichier README (que vous consultez actuellement) permettra de détailler tous les éléments des différents dossiers Github et Dropbox. 
 N'ayez crainte, ça finira rapidement par être très simple!
 
-### D'abord, voici les premières étapes à suivre au départ d’une supervision :
+### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
 
 1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (17,50$CA/mois quand on prend l'abonnement annuel);
-2. Créer un dossier «CLESSN» dans votre Dropbox (il servira à entreposer les projets de notre équipe);
-3. Créer un dossier «Maitrise» dans votre Dropbox (il servira à entreposer tout ce qui a trait à vos études);
-4. Télécharger ce repository (trousse_etudiante) dans votre Dropbox (Ajoutez-le à l'intérieur du dossier «Maitrise»);
-5. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous a été partagé À L'INTÉRIEUR du repository;
-6. Installer Slack (https://slack.com/intl/fr-ca/);
-7. Installer R, qui servira à l’analyse de données (https://www.r-project.org/); 
+2. Télécharger ce repository («trousse_etudiante») et le stocker dans votre Dropbox;
+3. Renommer-le comme il vous plait (par exemple: «Maitrise»);
+4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous a été partagé À L'INTÉRIEUR du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
+5. Créer un dossier nommé *_PrivateFolder_trousseEtudiante* et le glisser dans «Maitrise»;
+6. Installer Slack, qui sert aux communications de l'équipe (https://slack.com/intl/fr-ca/);
+7. Installer R, qui sert à l’analyse de données (https://www.r-project.org/); 
 8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
-9. Installer RStudio, le logiciel qui héberge R et LaTeX (https://rstudio.com/products/rstudio/download/).
+9. Installer RStudio, le logiciel qui héberge R et LaTeX (https://rstudio.com/products/rstudio/download/);
+10. Dans votre Dropbox, vous pouvez déjà créer un autre dossier nommé «CLESSN» (il servira à entreposer tous les projets de notre équipe).
 
 C'est fait? Bravo! Le plus dur est passé!
 Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
@@ -24,18 +25,21 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 ### La logique du dossier Github (trousse_etudiante), fichier par fichier:
 
 1. **Mémoire** (dans ce dossier, vous pouvez commencer la rédaction de votre mémoire)
-  - *Article 1* (commençons par la rédaction de l'article 1)
-    - _divers (tous les divers éléments intéressants ou nécessaires à votre article 1, mais pas les données)
+  - *_divers* (tous les divers éléments intéressants ou nécessaires à votre mémoire, mais pas les données)
+  - *article1* (commençons par la rédaction de l'article 1)
+    - _graphs (il s'agit d'une exception, mais ici se trouveront vos graphiques finaux en format png à être insérés dans votre article)
     - code (ici se retrouvera votre fichier R)
     - writing (vous pourrez créer un beau document RMarkdown pour l'occasion!)
-  - *Article 2* (puis poursuivons avec l'article 2)
-    - _divers
+  - *article2* (puis poursuivons avec l'article 2)
+    - _graphs
     - code
     - writing
   - *devis* (puisque vous devrez défendre votre devis de recherche devant votre comité, mieux vaut prévoir un dossier où vous le rédigerez)
   - *index* (dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre!)
 2. **README.md** (tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instructions du dossier)
 3. **.gitignore** (le fichier texte caché .gitignore est nécessaire pour ignorer la mise en ligne de certains fichiers à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré par le .gitignore. Allez voir par vous-même!)
+
+![](Memoire/_divers/pathMemoire.png)
 
 ### La logique du dossier Dropbox (_SharedFolder_trousseEtudiante), fichier par fichier :
 
@@ -44,7 +48,7 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 3. **_divers** (on vous a déjà mis les cheat sheets pertinentes, des guides de rédaction et les recueils créés par la CLESSN pour faciliter l'apprentissage de méthodologies)
   - *CheatSheets*
   - *Outils*
-  - *Recueil*
+  - *Recueils*
 4. **Bourses** (il est essentiel d'appliquer à l'obtention de bourses d'études! Voici les plus importantes et leurs instructions)
 5. **Conferences** (vous ferez -- ou participerez -- sans doute à plusieurs conférences pendant vos études. Voici les plus importantes)
 6. **Formations** (vous serez invité à participer à l'école d'été méthodologique ICPSR de l'Université du Michigan! Il s'agit d'un excellent complément à votre formation. Les cours en ligne de Datacamp serviront aussi à solidifier votre base en R)
@@ -53,9 +57,12 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 7. **Litterature** (ici, vous entreposerez votre fichier bibtex contenant toute la bibliographie de votre mémoire. Commencez à la nourrir dès maintenant!)
   - *bibfile.bib*
   
+![](Memoire/_divers/pathShared.png)
+
 ### IMPORTANT
 
-1. Vos données doivent **en tout temps** demeurer dans le _SharedFolder_trousseEtudiante. Comme mentionné, ce dossier Dropbox est ignoré par le .gitignore, c'est-à-dire qu'il ne sera **jamais** partagé en ligne, même lors d'un git push. Ainsi, vos données resteront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe.
+1. Vos données doivent **en tout temps** demeurer dans le *_SharedFolder_trousseEtudiante*. Comme mentionné, ce dossier Dropbox est ignoré par le .gitignore, c'est-à-dire qu'il ne sera **jamais** partagé en ligne, même lors d'un git push. Ainsi, vos données resteront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe. 
+De plus, nous avons aussi pensé le fichier .gitignore pour qu'il ignore les dossiers dont le nom débute par *_PrivateFolder...*. C'est pourquoi vous l'avez créé plus haut! Vous pourrez y glisser tout votre travail personnel (par exemple, les dossiers relatifs à vos cours). Ce dossier restera confidentiel; il ne sera ni publié en ligne ni partagé avec moi. 
 
 ### Git et Github
 
@@ -106,7 +113,7 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
   
 ### Panique?
 
-Bien sûr que non! La CLESSN travaille dans l'objectif d'optimiser constamment son travail. Tous les étudiants ont réussi, en avançant pas-à-pas dans leur apprentissage, à développer les outils essentiels à leur cheminement scolaire et, en plus, à apporter leur propre contribution à la chaire. Pas de panique, donc, si vous n'avez jamais codé et si tout ça semble complexe! C'est complètement à votre portée. 
+Bien sûr que non! La CLESSN travaille dans l'objectif d'optimiser constamment son travail. Tous les étudiants ont réussi, en avançant pas-à-pas dans leurs apprentissages, à développer les outils essentiels à leur cheminement scolaire et, en plus, à apporter leur propre contribution à la chaire. Pas de panique, donc, si vous n'avez jamais codé et si tout ça semble complexe! C'est complètement à votre portée. 
 
 Je vous souhaite d'excellentes études.
 Je vous l'assure, le temps passera très vite!
