@@ -10,7 +10,7 @@ N'ayez crainte, ça finira rapidement par être très simple!
 
 1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (17,50$CA/mois quand on prend l'abonnement annuel);
 2. Télécharger ce repository («trousse_etudiante») et le stocker dans votre Dropbox;
-3. Renommer-le comme il vous plait (par exemple: «Maitrise»);
+3. Renommez-le comme il vous plait (par exemple: «Maitrise»);
 4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous a été partagé À L'INTÉRIEUR du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
 5. Créer un dossier nommé *_PrivateFolder_trousseEtudiante* et le glisser dans «Maitrise»;
 6. Installer Slack, qui sert aux communications de l'équipe (https://slack.com/intl/fr-ca/);
@@ -86,7 +86,7 @@ De plus, nous avons aussi pensé le fichier .gitignore pour qu'il ignore les dos
   
 ### Rencontres
   
-  5. Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pensant qu'il s'agissait d'un grand scientifique anglais? Aucune crainte! Vous êtes au bon endroit pour vous initier et rapidement développer une expertise dans les sciences sociales numériques. Plusieurs étudiants de l'équipe n'avaient jamais codé avant leur arrivée! Pour apprendre rapidement, le mieux est de commencer maintenant, et d'en faire un peu tous les jours. Quelques pages de KKV, une vidéo YouTube, un cours de Datacamp, et surtout, la participation au scrum! Nous avons 5 rencontres hebdomadaires, et vous êtes bien sûr invité à vous joindre à nous en personne ou via Slack (à distance, les rencontres se font dans la chaine **00_général**). Voici les heures de rencontre:
+  5. Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pensant qu'il s'agissait d'un grand scientifique anglais? Aucune crainte! Vous êtes au bon endroit pour vous initier et rapidement développer une expertise dans les sciences sociales numériques. Plusieurs étudiants de l'équipe n'avaient jamais codé avant leur arrivée! Pour apprendre rapidement, le mieux est de commencer maintenant, et d'en faire un peu tous les jours. Quelques pages de KKV, une vidéo YouTube, un cours de Datacamp, et surtout, la participation aux scrums! Nous avons 5 rencontres hebdomadaires, et vous êtes bien sûr invité à vous joindre à nous en personne ou via Slack (à distance, les rencontres se font dans la chaine **00_général**). Voici les heures de rencontre:
   - Mardi, 15h30-16h30 (*Mardi métho*, on fait des lectures et on jase méthodologie)
   - Mardi, 16h30-17h15 (scrum de 45 minutes, pour suivre l'avancement des projets)
   - Jeudi, 15h30-16h30 (*jeudi 3P*, on présente un ou des projets plus en détail, et on les commente en équipe)
