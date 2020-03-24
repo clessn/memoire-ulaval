@@ -127,14 +127,16 @@ https://www.icpsr.umich.edu/icpsrweb/content/sumprog/scholarships/index.html
 
 Et voici les opportunités de financement des groupes de recherche auxquels vous faites maintenant partie:
 
-3. OBVIA (30 août): L'Observatoire international sur les impacts sociétaux de l'IA et du numérique organise chaque année un concours de bourse de 15 000$ pour la réalisation d'un mémoire en lien avec leurs objectifs.
+4. OBVIA (30 août): L'Observatoire international sur les impacts sociétaux de l'IA et du numérique organise chaque année un concours de bourse de 15 000$ pour la réalisation d'un mémoire en lien avec leurs objectifs.
 https://observatoire-ia.ulaval.ca/programmes-de-bourses-dappui-a-la-releve-de-lobvia/
-4. CÉCD (30 septembre et 1er mars): Le Centre pour l'étude de la citoyenneté démocratique offre 750\$ par année pour la présentation à l'étranger d'un article scientifique. Il est toutefois nécessaire d'indiquer au CECD avant le 30 septembre que vous comptez utiliser cette bourse (je vous conseille de le faire, même si vous ne pensez pas l'utiliser!). Aussi, le CÉCD offre 2500\$ en bourse de formation méthodologique (comme la participation à ICPSR).
+5. CÉCD (30 septembre et 1er mars): Le Centre pour l'étude de la citoyenneté démocratique offre 750\$ par année pour la présentation à l'étranger d'un article scientifique. Il est toutefois nécessaire d'indiquer au CECD avant le 30 septembre que vous comptez utiliser cette bourse (je vous conseille de le faire, même si vous ne pensez pas l'utiliser!). Aussi, le CÉCD offre 2500\$ en bourse de formation méthodologique (comme la participation à ICPSR).
 https://csdc-cecd.ca/fr/resources/csdc-student-funding-fr/
-5. GRCP (en tout temps): Le Groupe de recherche en communication politique offre 800$ par année pour la formation méthodologique et la diffusion de vos résultats de recherche. À prendre ou à laisser!
+6. GRCP (en tout temps): Le Groupe de recherche en communication politique offre 800$ par année pour la formation méthodologique et la diffusion de vos résultats de recherche. À prendre ou à laisser!
 https://www.grcp.ulaval.ca/ressources/formulaires
-6. Département de science politique (en tout temps): Ce n'est pas un groupe de recherche, mais le département offre 2000$ par année pour la formation méthodologique.
+7. Département de science politique (en tout temps): Ce n'est pas un groupe de recherche, mais le département offre 2000$ par année pour la formation méthodologique.
 https://repertoire.bbaf.ulaval.ca/bourse/52857/bourses-de-formations-methodologiques-hiver-2020
+
+Il existe beaucoup d'autres bourses, à vous maintenant de fouiller et de me faire part de vos trouvailles! Membres Desjardins, sâchez que la Caisse offre des bourses d'études chaque année pendant le mois de mars. (https://www.boursesdesjardins.com/fr?utm_campaign=vanity-url&utm_medium=vanity&utm_source=desjardins&utm_term=/bourses/index.jsp)
 
 ### Panique?
 
