@@ -9,9 +9,9 @@ N'ayez crainte, ça finira rapidement par être très simple!
 ### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
 
 1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (17,50$CA/mois quand on prend l'abonnement annuel);
-2. Télécharger ce repository («trousse_etudiante») et le stocker dans votre Dropbox;
-3. Renommez-le comme il vous plait (par exemple: «Maitrise»);
-4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous a été partagé À L'INTÉRIEUR du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
+2. Télécharger ce repository en cliquant sur le bouton vert, puis sur «Download ZIP», et le stocker dans votre Dropbox;
+3. Le renommez comme il vous plait (par exemple: «Maitrise»);
+4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous a été partagé **À L'INTÉRIEUR** du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
 5. Créer un dossier nommé *_PrivateFolder_trousseEtudiante* et le glisser dans «Maitrise»;
 6. Installer Slack, qui sert aux communications de l'équipe (https://slack.com/intl/fr-ca/);
 7. Installer R, qui sert à l’analyse de données (https://www.r-project.org/); 
@@ -66,19 +66,24 @@ De plus, nous avons aussi pensé le fichier .gitignore pour qu'il ignore les dos
 
 ### Git et Github
 
+Éventuellement, vous serez appelé à «pusher» en ligne, sur Github, votre «trousse étudiante»! Il est donc essentiel de la renommer (par exemple: «Maitrise»), comme il est suggéré à l'étape 3. Ensuite, pour «pusher» (ou déployer) votre trousse sur Github, vous devrez vous créer un compte... puis travailler à comprendre son fonctionnement!
+
 D'ailleurs, pour bien saisir la logique de Git et de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine Youtube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Vous êtes également invité à compléter le cours Datacamp *Introduction to Git*.
 
 ### Datacamp
 
-Parlant de Datacamp, voici une série de cours utiles à l'introduction à R:
-  - Introduction to R
-  - Intermediate R
-  - Introduction to the Tidyverse
-  - Data Manipulation with dplyr
-  - Correlation and Regression in R
-  - Multiple and Logistic Regression in R
-  - Data Visualization with ggplot2 (Part 1)
-  - Text Mining with Bag-of-Words in R
+Parlant de https://www.datacamp.com/users/sign_in, voici une série de cours utiles à l'introduction à R:
+ 
+  - Introduction to R;
+  - Intermediate R;
+  - Introduction to the Tidyverse;
+  - Data Manipulation with dplyr;
+  - Correlation and Regression in R;
+  - Multiple and Logistic Regression in R;
+  - Data Visualization with ggplot2 (Part 1);
+  - Text Mining with Bag-of-Words in R;
+  
+Allez-y à votre rythme! L'introduction de chaque cours est gratuite, mais vous êtes encouragés à vous abonner. Datacamp est un outil formidable pour l'apprentissage de R.
   
 ### Lectures
   
