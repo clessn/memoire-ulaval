@@ -72,14 +72,14 @@ Git n'aime pas que l'on entrepose des informations trop lourdes sur ses serveurs
 
 Pour bien saisir la logique de Git et de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine Youtube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Ce genre de vidéo vous apprendra notamment à minimiser le risque d'erreurs sur Git. Notez bien la formule magique à inscrire dans votre terminal:
 
-1. git add .
-2. git commit -a -m "description du commit"
+1. git add -A
+2. git commit -m "description du commit"
 3. git pull
 4. git push
 
-Quand on fait un pull après un certain temps dans un repo, il est aussi important de taper ces codes dans le termianl dans cet ordre, même si nous n'avons rien modifié depuis longtemps. Parfois, un fichier caché a été modifié (.RData, .Rhistory ou .DS_Store). En commitant comme ça, on s’assure de ne pas avoir de bug.
+Quand on fait un pull après un certain temps dans un repo, il est aussi important de taper ces codes dans le terminal dans cet ordre, même si nous n'avons rien modifié depuis longtemps. Parfois, un fichier caché a été modifié (.RData, .Rhistory ou .DS_Store). En commitant comme ça, on s’assure de ne pas avoir de bug.
 
-Important: apprendre une formule magique n'est jamais une solution miracle. Il est plutôt nécessaire de comprendre les commandes et de pouvoir faire ce que l'on veut peu importe les circonstances.
+Important: malheureusement, apprendre une formule magique n'est jamais une solution miracle. Il est plutôt nécessaire de comprendre les commandes et de pouvoir faire ce que l'on veut peu importe les circonstances. Dans certains cas, la formule ci-dessus pourrait être inappropriée!
 
 Pour en savoir plus, je vous invite aussi à compléter le cours Datacamp *Introduction to Git*.
 
@@ -133,8 +133,20 @@ Il existe beaucoup d'autres chaines Slack. Plusieurs sont publiques (vous pouvez
   
 ### Nos projets
 
-C'est au travers de Slack que nous discutons des différents projets en cours. Voici une liste (peut-être non exhaustive) de ceux-ci:
+C'est au travers de Slack que nous discutons des différents projets en cours. Voici une liste (non exhaustive) de ceux-ci (les numéros associés correspondent d'ailleurs aux numéros des chaines Slack!):
 
+1. INSPQ: création d'un sondage sur les perceptions par rapport à l'alcool;
+2. RADAR+: construction d'un outil pour entreposer et analyser les Unes des médias canadiens;
+3. Polimètre: conception d'un algorithme de pondération selon l'importance des promesses électorales;
+4. Livre CLESSN: écriture d'un livre d'introduction aux sciences sociales numériques;
+5. Build-a-Voter: déploiement d'une plateforme en ligne où l'on peut construire un électeur selon une multitudes de variables socio-démographiques;
+6. Global-ES: nettoyage et uniformisation des études électorales de plusieurs pays;
+7. Boussole Japon: lancement d'une boussole électorale au Japon;
+8. Entre-voix: cueillette des textes des débats législatifs disponibles sur les sites web des parlements;
+9. Marché politique: création d'un marché (d'une loterie) sur la politique;
+10. Lobbying: analyse de réseau avec la base de données du registre des lobbyistes;
+11. Synopsis STM: élaboration de graphiques sur le STM pour un projet de la firme de marketing Synopsis;
+12. Tact conseil: développement d'un algorithme semi-supervisé pour l'analyse textuelle et production de graphiques.
 
   
 ### ICPSR
