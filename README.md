@@ -68,9 +68,20 @@ De plus, nous avons aussi pensé le fichier .gitignore pour qu'il ignore les dos
 
 Éventuellement, vous serez appelé à «pusher» en ligne, sur Github, votre «trousse étudiante» que vous personnaliserez avec votre travail! Il est donc essentiel de la renommer (par exemple: «Maitrise»), comme il est suggéré à l'étape 3. Ensuite, pour «pusher» (ou déployer) votre trousse sur Github, vous devrez vous créer un compte Github... puis travailler à comprendre son fonctionnement!
 
-Git n'aime pas que l'on entrepose des informations trop lourdes sur ses serveurs... Des repo trop costauds seront aussi plus long à télécharger. C'est une autre bonne raison pour laquelle vos données doivent se trouver dans votre _SharedFolder (qui est ignoré par Git!). Les fichiers pdf, png, jpg (et autres images) sont aussi préférablement entreposés dans le _SharedFolder (sauf exception).
+Git n'aime pas que l'on entrepose des informations trop lourdes sur ses serveurs... Des repo trop costauds seront aussi plus long à télécharger. C'est une autre bonne raison pour laquelle vos données doivent se trouver dans votre _SharedFolder (qui est ignoré par Git!). Les fichiers pdf, png, jpg (et autres images) sont aussi préférablement entreposés dans le _SharedFolder (sauf exception). La taille de fichier maximale recommandée par GitHub est de 50 MB.
 
-Pour bien saisir la logique de Git et de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine Youtube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Vous êtes également invité à compléter le cours Datacamp *Introduction to Git*.
+Pour bien saisir la logique de Git et de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine Youtube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Ce genre de vidéo vous apprendra notamment à minimiser le risque d'erreurs sur Git. Notez bien la formule magique à inscrire dans votre terminal:
+
+1. git add .
+2. git commit -a -m "description du commit"
+3. git pull
+4. git push
+
+Quand on fait un pull après un certain temps dans un repo, il est aussi important de taper ces codes dans le termianl dans cet ordre, même si nous n'avons rien modifié depuis longtemps. Parfois, un fichier caché a été modifié (.RData, .Rhistory ou .DS_Store). En commitant comme ça, on s’assure de ne pas avoir de bug.
+
+Important: apprendre une formule magique n'est jamais une solution miracle. Il est plutôt nécessaire de comprendre les commandes et de pouvoir faire ce que l'on veut peu importe les circonstances.
+
+Pour en savoir plus, je vous invite aussi à compléter le cours Datacamp *Introduction to Git*.
 
 ### Datacamp
 
@@ -119,6 +130,12 @@ Il existe beaucoup d'autres chaines Slack. Plusieurs sont publiques (vous pouvez
   - rss_lapresse (en temps réel, vous recevrez des notifications des nouvelles politiques de La Presse);
   - 98_méthode_analyse-textuelle (vous avez des questions à propos de l'analyse textuelle? C'est l'endroit!);
   - 99_random (pour tout... et surtout rien).
+  
+### Nos projets
+
+C'est au travers de Slack que nous discutons des différents projets en cours. Voici une liste (peut-être non exhaustive) de ceux-ci:
+
+
   
 ### ICPSR
 
