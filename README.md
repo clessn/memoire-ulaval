@@ -7,9 +7,7 @@ Le fichier README (que vous consultez actuellement) permet de détailler tous le
 
 N'ayez crainte, ça finira rapidement par être très simple!
 
-### Baccalauréat, maitrise et doctorat
-
-Pour le moment, vous constaterez que ce repository et le dropbox associés sont plutôt adaptés aux études à la maitrise. Il n'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au bac, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). Il est cependant important de bien lire ce fichier README. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
+À noter: pour le moment, vous constaterez que ce repository et le dropbox associés sont plutôt adaptés aux études à la maitrise. Il n'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au bac, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). Il est cependant important de bien lire ce fichier README. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
 
 ### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
 
