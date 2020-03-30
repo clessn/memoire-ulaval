@@ -1,10 +1,15 @@
-# Bonjour cher(chère) étudiant(e)
+# Cher(chère) étudiant(e)
 
 ## Supervision par Yannick Dufresne, Université Laval
 
 Afin de faciliter au maximum votre cheminement scolaire et votre introduction à notre équipe de travail, je vous invite à télécharger ce repository Github. Il est accompagné d'un dossier Dropbox qui vous sera partagé. 
 Le fichier README (que vous consultez actuellement) permet de détailler tous les éléments des différents dossiers Github et Dropbox, en plus d'expliciter le mode d'emploi de notre collaboration. 
+
 N'ayez crainte, ça finira rapidement par être très simple!
+
+### Baccalauréat, maitrise et doctorat
+
+Pour le moment, vous constaterez que ce repository et le dropbox associés sont plutôt adaptés aux études à la maitrise. Il n'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au bac, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). Il est cependant important de bien lire ce fichier README. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
 
 ### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
 
@@ -24,9 +29,9 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 ### La logique du dossier Github (trousse_etudiante), fichier par fichier:
 
-1. **Memoire** (dans ce dossier, vous pourrez commencer la rédaction de votre mémoire)
+1. **Memoire** (c'est dans ce dossier que vous pourrez prochainement commencer la rédaction de votre mémoire)
   - *_divers* (sert à entreposer tous les divers éléments intéressants ou nécessaires à votre mémoire, **mais pas les données**)
-  - *article1* (c'est dans ce dossier que vous procéderez à l'analyse et à la rédaction de votre 1er article)
+  - *article1* (ici vous procéderez à l'analyse et à la rédaction de votre 1er article)
     - _graphs (il s'agit d'une exception, mais ici se trouveront vos graphiques finaux en format png à être insérés dans votre article)
     - code (ici se retrouvera votre fichier R)
     - writing (vous pourrez créer un beau document RMarkdown pour la rédaction!)
@@ -61,12 +66,12 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 ### _SharedFolder et _PrivateFolder
 
-Vos données doivent **en tout temps** demeurer dans le *_SharedFolder_trousseEtudiante*. Comme mentionné, ce dossier Dropbox est ignoré par le .gitignore, c'est-à-dire qu'il ne sera **jamais** partagé en ligne, même lors d'un git push (vous allez bientôt bien connaitre ces expressions). Ainsi, vos données resteront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe. 
+Vos données de mémoire doivent **en tout temps** demeurer dans le *_SharedFolder_trousseEtudiante*. Comme mentionné, ce dossier Dropbox est ignoré par le .gitignore, c'est-à-dire qu'il ne sera **jamais** partagé en ligne, même lors d'un git push (vous allez bientôt bien connaitre ces expressions). Ainsi, vos données demeureront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe. 
 De plus, nous avons aussi pensé le fichier .gitignore pour qu'il ignore les dossiers dont le nom débute par *_PrivateFolder...*. C'est pourquoi vous l'avez créé plus haut! Vous pourrez y glisser tout votre travail personnel (par exemple, les dossiers relatifs à vos cours). Ce dossier restera confidentiel; il ne sera ni publié en ligne ni partagé avec moi ou vos collègues.
 
 ### Git et Github
 
-Éventuellement, vous serez appelé à «pusher» en ligne, sur Github, votre «trousse étudiante» que vous personnaliserez avec votre travail! Il est donc essentiel de la renommer (par exemple: «Maitrise»), comme il est suggéré à l'étape 3. Ensuite, pour «pusher» (ou déployer) votre trousse sur Github, vous devrez vous créer un compte Github... puis travailler à comprendre son fonctionnement!
+Éventuellement, vous serez appelé à «pusher» en ligne, sur Github, votre «trousse étudiante» que vous personnaliserez avec votre travail! Il est donc essentiel de la renommer (par exemple: «Maitrise»), comme il est suggéré à l'étape 3. Ensuite, pour «pusher» (ou déployer) votre trousse sur Github, vous devrez vous créer un compte Github... puis travailler à comprendre son fonctionnement! Comprenez bien: vous déploirez votre repo sur votre propre compte Github et non pas ici, sur celui de la CLESSN!
 
 Git n'aime pas que l'on entrepose des informations trop lourdes sur ses serveurs... Des repo trop costauds seront aussi plus long à télécharger. C'est une autre bonne raison pour laquelle vos données doivent se trouver dans votre _SharedFolder (qui est ignoré par Git!). Les fichiers pdf, png, jpg (et autres images) sont aussi préférablement entreposés dans le _SharedFolder (sauf exception). La taille de fichier maximale recommandée par GitHub est de 50 MB.
 
@@ -99,7 +104,7 @@ Allez-y à votre rythme! L'introduction de chaque cours est gratuite, mais vous 
   
 ### Lectures
   
-Vous pouvez déjà vous lancer dans la lecture de *KKV*. **Designing Social Inquiry (1994)** est un ouvrage d'introduction à la méthodologie de recherche en science sociale rédigé par Gary King, Robert Keohane et Sidney Verba (le surnom *KKV* vient des initiales de leur nom de famille!). Tous les étudiant.es de la CLESSN l'ont déjà lu une fois... ou plus! Le recueil «Devis de recherche», monté et utilisé pour le cours de Devis de recherche, est également une bonne lecture à faire. Vous le retrouverez dans _SharedFolder_trousseEtudiante -> _divers -> Recueils.
+Vous pouvez aussi déjà vous lancer dans la lecture de *KKV*. **Designing Social Inquiry (1994)** est un ouvrage d'introduction à la méthodologie de recherche en science sociale rédigé par Gary King, Robert Keohane et Sidney Verba (le surnom *KKV* vient des initiales de leur nom de famille!). Tous les étudiant.es de la CLESSN l'ont déjà lu une fois... ou plus! Le recueil «Devis de recherche», monté et utilisé pour le cours de Devis de recherche, est également une bonne lecture à faire. Vous le retrouverez dans _SharedFolder_trousseEtudiante -> _divers -> Recueils.
   
 ### Rencontres
   
