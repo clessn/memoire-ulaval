@@ -7,7 +7,7 @@ Le fichier README (que vous consultez actuellement) permet de détailler tous le
 
 N'ayez crainte, ça finira rapidement par être très simple!
 
-À noter: pour le moment, vous constaterez que ce repository et le dropbox associés sont plutôt adaptés aux études à la maitrise. Il n'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au bac, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). Il est cependant important de bien lire ce fichier README. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
+À noter: pour le moment, vous constaterez que ce repository et le dropbox associés sont plutôt adaptés aux études à la maitrise. Il n'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au bac, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). **Il est cependant important de bien lire ce fichier README**. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
 
 ### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
 
@@ -21,6 +21,8 @@ N'ayez crainte, ça finira rapidement par être très simple!
 8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
 9. Installer RStudio, le logiciel qui héberge R et LaTeX (https://rstudio.com/products/rstudio/download/);
 10. Dans votre Dropbox, vous pouvez déjà créer un autre dossier nommé «CLESSN» (il servira à entreposer tous les projets de notre équipe).
+
+Pour davantage d'informations sur les installations, vous pouvez consulter l'onglet «Wiki» en haut de cette page. 
 
 C'est fait? Bravo! Le plus dur est passé!
 Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
