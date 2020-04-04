@@ -186,7 +186,7 @@ https://observatoire-ia.ulaval.ca/programmes-de-bourses-dappui-a-la-releve-de-lo
 https://csdc-cecd.ca/fr/resources/csdc-student-funding-fr/
 6. GRCP (en tout temps): Le Groupe de recherche en communication politique offre 800$ par année pour la formation méthodologique et la diffusion de vos résultats de recherche. À prendre ou à laisser!
 https://www.grcp.ulaval.ca/ressources/formulaires
-7. CAPP: Plus de détails à venir.
+7. CAPP: Le Centre d'analyse des politiques publiques n'offre pas de bourses pour le moment, mais c'est dans les plans!
 8. Département de science politique (en tout temps): Ce n'est pas un groupe de recherche, mais le département offre des bourses de 2000$ par année pour la formation méthodologique.
 https://repertoire.bbaf.ulaval.ca/bourse/52857/bourses-de-formations-methodologiques-hiver-2020
 
