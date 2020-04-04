@@ -114,7 +114,7 @@ Allez-y à votre rythme! L'introduction de chaque cours est gratuite, mais vous 
   
 Vous pouvez aussi déjà vous lancer dans la lecture de *KKV*. **Designing Social Inquiry (1994)** est un ouvrage d'introduction à la méthodologie de recherche en science sociale rédigé par Gary King, Robert Keohane et Sidney Verba (le surnom *KKV* vient des initiales de leur nom de famille!). Tous les étudiant.es de la CLESSN l'ont déjà lu une fois... ou plus! Le recueil «Devis de recherche», monté et utilisé pour le cours de Devis de recherche, est également une bonne lecture à faire. Vous le retrouverez dans _SharedFolder_trousseEtudiante -> _divers -> Recueils.
   
-### Rencontres
+### Rencontres (et méthodes agiles)
   
 Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pensant qu'il s'agissait d'un grand scientifique anglais? Aucune crainte! Vous êtes au bon endroit pour vous initier et rapidement développer une expertise dans les sciences sociales numériques. Plusieurs étudiant.es de l'équipe n'avaient jamais codé avant leur arrivée! Pour apprendre rapidement, le mieux est de commencer maintenant, et d'en faire un peu tous les jours. Quelques pages de KKV, une vidéo YouTube, un cours de Datacamp, et surtout, la participation aux scrums! 
 
@@ -161,7 +161,8 @@ C'est au travers de Slack que nous discutons des différents projets en cours. V
 9. Marché politique: création d'un marché (d'une loterie) sur la politique;
 10. Lobbying: analyse de réseau avec la base de données du registre des lobbyistes;
 11. Synopsis STM: élaboration de graphiques sur le STM pour un projet de la firme de marketing Synopsis;
-12. Tact conseil: développement d'un algorithme semi-supervisé pour l'analyse textuelle et production de graphiques.
+12. Tact conseil: développement d'un algorithme semi-supervisé pour l'analyse textuelle et production de graphiques;
+13. Sondage COVID-19: réalisation d'un sondage sur le COVID-19 en partenariat avec le Centre canadien sur les dépendances et l'usage de substances.
   
 ### ICPSR
 
