@@ -15,7 +15,7 @@ N'ayez crainte, ça finira rapidement par être très simple!
 2. Télécharger ce repository en cliquant sur le bouton vert «Clone or download» ci-dessus, puis sur «Download ZIP», et le stocker dans votre Dropbox;
 3. Le renommer comme il vous plait (par exemple: «Maitrise»);
 4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous a été partagé **À L'INTÉRIEUR** du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
-5. Créer un dossier nommé *_PrivateFolder_trousseEtudiante* et le glisser dans «Maitrise»;
+5. Créer un dossier nommé *_PrivateFolder_trousseEtudiante* et le glisser dans «Maitrise» **NE JAMAIS RENOMMER LES DOSSIERS _SharedFolder_ ET PrivateFolder_**;
 6. Installer Slack, qui sert aux communications de l'équipe (https://slack.com/intl/fr-ca/);
 7. Installer R, qui sert à l’analyse de données (https://www.r-project.org/); 
 8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
@@ -74,8 +74,10 @@ Toute l'information pertinente au sujet de votre rédaction peut être obtenue i
 
 ### _SharedFolder et _PrivateFolder
 
-Vos données de mémoire doivent **en tout temps** demeurer dans le *_SharedFolder_trousseEtudiante*. Comme mentionné, ce dossier Dropbox est ignoré par le .gitignore, c'est-à-dire qu'il ne sera **jamais** partagé en ligne, même lors d'un git push (vous allez bientôt bien connaitre ces expressions). Ainsi, vos données demeureront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe. 
-De plus, nous avons aussi pensé le fichier .gitignore pour qu'il ignore les dossiers dont le nom débute par *_PrivateFolder...*. C'est pourquoi vous l'avez créé plus haut! Vous pourrez y glisser tout votre travail personnel (par exemple, les dossiers relatifs à vos cours). Ce dossier restera confidentiel; il ne sera ni publié en ligne ni partagé avec moi ou vos collègues.
+Vos données de mémoire doivent **en tout temps** demeurer dans le *_SharedFolder_trousseEtudiante*. Comme mentionné, les dossiers Dropbox qui commencent par *_SharedFolder_* sont ignorés par le .gitignore, c'est-à-dire qu'ils ne seront **jamais** partagés en ligne, même lors d'un git push (vous allez bientôt bien connaitre ces expressions). Ainsi, vos données demeureront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe. 
+De plus, nous avons pensé le fichier .gitignore pour qu'il ignore aussi les dossiers dont le nom débute par *_PrivateFolder_...*. C'est pourquoi vous l'avez créé plus haut! Vous pourrez y glisser tout votre travail personnel (par exemple, les dossiers relatifs à vos cours). Ce dossier restera confidentiel; il ne sera ni publié en ligne ni partagé avec moi ou vos collègues.
+
+Une dernière fois: **NE JAMAIS RENOMMER LES DOSSIERS _SharedFolder_ ET PrivateFolder_**.
 
 ### Git et Github
 
