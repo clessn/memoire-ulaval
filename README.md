@@ -7,15 +7,15 @@ Le fichier README (que vous consultez actuellement) permet de détailler tous le
 
 N'ayez crainte, ça finira rapidement par être très simple!
 
-À noter: pour le moment, vous constaterez que ce repository et le dropbox associés sont plutôt adaptés aux études à la maitrise. Il n'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au baccalauréat, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). **Il est cependant important de bien lire ce fichier README**. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
+**À noter**: pour le moment, vous constaterez que ce repository et le Dropbox associés sont plutôt adaptés aux études à la maitrise. N'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au baccalauréat, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). **Il est cependant important de bien lire ce fichier README**. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
 
 ### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
 
-1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (17,50$CA/mois quand on prend l'abonnement annuel);
+1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (~17,50$CA/mois quand on prend l'abonnement annuel);
 2. Télécharger ce repository en cliquant sur le bouton vert «Clone or download» ci-dessus, puis sur «Download ZIP», et le stocker dans votre Dropbox;
 3. Le renommer comme il vous plait (par exemple: «Maitrise»);
-4. Ajouter le dossier Dropbox _SharedFolder_trousseEtudiante qui vous a été partagé **À L'INTÉRIEUR** du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
-5. Créer un dossier nommé *_PrivateFolder_trousseEtudiante* et le glisser dans «Maitrise» **NE JAMAIS RENOMMER LES DOSSIERS _SharedFolder ET _PrivateFolder**;
+4. Ajouter le dossier Dropbox «_SharedFolder_trousseEtudiante» qui vous a été partagé **À L'INTÉRIEUR** du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
+5. Créer un dossier nommé «_PrivateFolder_trousseEtudiante» et le glisser dans «Maitrise». **Il est important de ne pas nommer différemment vos dossiers _SharedFolder ET _PrivateFolder**;
 6. Installer Slack, qui sert aux communications de l'équipe (https://slack.com/intl/fr-ca/);
 7. Installer R, qui sert à l’analyse de données (https://www.r-project.org/); 
 8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
@@ -29,42 +29,33 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 ### La logique du dossier Dropbox (_SharedFolder_trousseEtudiante), fichier par fichier :
 
-1. **_data_article1** (ici, vous entreposerez les données de votre article 1)
-2. **_data_article2** (même chose ici, pour l'article 2)
-3. **_divers** (on vous a déjà mis les cheat sheets pertinentes, des guides de rédaction et les recueils créés par la CLESSN pour faciliter l'apprentissage de méthodologies)
-  - *CheatSheets*
-  - *Outils*
-  - *Recueils*
-4. **Financement** (il est essentiel d'appliquer pour l'obtention de bourses d'études! Vous trouverez ici les plus importantes et leurs instructions)
-5. **Conferences** (vous ferez -- ou participerez -- sans doute à plusieurs conférences pendant vos études. Voici les plus importantes)
-6. **Formations** (vous serez invité à participer à l'école d'été méthodologique ICPSR de l'Université du Michigan! Il s'agit d'un excellent complément à votre formation. Les cours en ligne de Datacamp serviront aussi à solidifier votre base en R)
-  - *Datacamp*
-  - *ICPSR*
-7. **Litterature** (ici, vous entreposerez votre fichier Bibtex contenant toute la bibliographie de votre mémoire. Commencez à la nourrir dès maintenant!)
-  - *bibfile.bib*
+1. **_data_article1**: ici, vous entreposerez les données de votre article 1;
+2. **_data_article2**: même chose ici, pour l'article 2;
+3. **_divers**: on vous a déjà mis les cheat sheets pertinentes des guides de rédaction et les recueils créés par la CLESSN pour faciliter l'apprentissage de méthodologies;
+4. **Conferences**: vous participerez sans doute à plusieurs conférences pendant vos études. Vous trouverez dans ce dossier les plus pertinentes;
+5. **Financement**: il est essentiel d'appliquer pour l'obtention de bourses d'études! Vous trouverez ici les plus importantes et leurs instructions;
+6. **Formations**: vous serez invité à participer à l'école d'été méthodologique ICPSR de l'Université du Michigan! Il s'agit d'un excellent complément à votre formation. Les cours en ligne de Datacamp serviront aussi à solidifier votre base en R;
+7. **Litterature**: ici, vous entreposerez votre fichier Bibtex contenant toute la bibliographie de votre mémoire. Commencez à la nourrir dès maintenant!
   
-![](Memoire/_divers/pathShared.png)
+![](https://github.com/clessn/communication/blob/master/trousse_etudiante/pathShared.jpg)
 
 ### La logique du dossier Github (trousse_etudiante), fichier par fichier:
 
-Vous constaterez que certains des dossiers présentés ci-dessous ne sont pas présents dans le repo. Ce sera donc à vous de les créer! La raison est fort simple: dans Git, on ne peut pas «commit» des dossiers vides, car Git ne sauvegarde pas réellement les dossiers, mais seulement les fichiers. À vous, par exemple, de créer le dossier *article1* et son contenu, si vous choisissez de réaliser un mémoire par article (plus de détails là-dessus dans la section suivante).
+Vous constaterez que certains des dossiers présentés ci-dessous ne sont pas présents dans le repo. Ce sera donc à vous de les créer! La raison est fort simple: dans git, on ne peut pas «commiter» des dossiers vides, car git ne sauvegarde pas réellement les dossiers, mais seulement les fichiers. À vous, par exemple, de créer les dossiers *_divers* ou *article1* et leur contenu, si vous choisissez de réaliser un mémoire par articles (plus de détails là-dessus dans la section suivante).
 
-1. **Memoire** (c'est dans ce dossier que vous pourrez prochainement commencer la rédaction de votre mémoire)
-  - *_divers* (sert à entreposer tous les divers éléments intéressants ou nécessaires à votre mémoire, **mais pas les données**. Vous pouvez supprimer les images qui s'y trouvent pour le README)
-  - *article1* (ici vous procéderez à l'analyse et à la rédaction de votre 1er article)
-    - _graphs (il s'agit d'une exception, mais ici se trouveront vos graphiques finaux en format png à être insérés dans votre article)
-    - code (ici se retrouvera votre fichier R)
-    - writing (vous pourrez créer un beau document RMarkdown pour la rédaction!)
-  - *article2* (puis vous poursuiverez avec l'article 2)
-    - _graphs
-    - code
-    - writing
-  - *devis* (puisque vous devrez défendre votre devis de recherche devant votre comité, mieux vaut prévoir un dossier où vous le rédigerez. Pour l'instant, vous y retrouverez le gabarit officiel du mémoire de l'Ulaval en format LaTeX.)
-  - *index* (dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre!)
-2. **README.md** (tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instructions du dossier)
-3. **.gitignore** (le fichier texte caché .gitignore est nécessaire, comme son nom l'indique, pour ignorer la mise en ligne de certains fichiers à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré par le .gitignore. Allez voir par vous-même!)
+1. **Memoire**: c'est dans ce dossier que vous pourrez prochainement commencer la rédaction de votre mémoire;
+  - *_divers*: sert à entreposer tous les divers éléments intéressants ou nécessaires à votre mémoire, **mais pas les données**;
+  - *article1*: ici vous procéderez à l'analyse et à la rédaction de votre 1er article;
+    - _graphs: ici se trouveront vos graphiques finaux à être insérés dans votre article 1;
+    - code: ici se retrouvera votre fichier R;
+    - writing: vous pourrez créer un beau document RMarkdown pour la rédaction de votre article 1;
+  - *article2*: puis vous poursuivrez avec l'article 2;
+  - *devis*: puisque vous devrez défendre votre devis de recherche devant votre comité, mieux vaut prévoir un dossier où vous le rédigerez. Pour l'instant, vous y retrouverez le gabarit officiel du mémoire de l'Ulaval en format LaTeX;
+  - *index*: dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre;
+2. **README.md**: tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instructions du dossier;
+3. **.gitignore**: le fichier texte (caché) .gitignore est nécessaire, comme son nom l'indique, pour ignorer la mise en ligne de certains fichiers à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré lors d'un «push» en ligne par le .gitignore. Allez voir par vous-même!
 
-![](Memoire/_divers/pathMemoire.png)
+![](https://github.com/clessn/communication/blob/master/trousse_etudiante/pathMemoire.jpg)
 
 ### Mémoire/thèse
 
@@ -74,27 +65,28 @@ Toute l'information pertinente au sujet de votre rédaction peut être obtenue i
 
 ### _SharedFolder et _PrivateFolder
 
-Vos données de mémoire doivent **en tout temps** demeurer dans le *_SharedFolder_trousseEtudiante*. Comme mentionné, les dossiers Dropbox qui commencent par *_SharedFolder_* sont ignorés par le .gitignore, c'est-à-dire qu'ils ne seront **jamais** partagés en ligne, même lors d'un git push (vous allez bientôt bien connaitre ces expressions). Ainsi, vos données demeureront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe. 
+Vos données de mémoire doivent **en tout temps** demeurer dans le *_SharedFolder_trousseEtudiante*. Comme mentionné, les dossiers Dropbox qui commencent par *_SharedFolder_* sont ignorés par le .gitignore, c'est-à-dire qu'ils ne seront **jamais** partagés en ligne, même lors d'un git push (vous allez bientôt bien connaitre par coeur ces expressions). Ainsi, vos données demeureront confidentielles, sur votre ordinateur. C'est la logique que nous utilisons pour tous nos projets en équipe.
+
 De plus, nous avons pensé le fichier .gitignore pour qu'il ignore aussi les dossiers dont le nom débute par *_PrivateFolder_*. C'est pourquoi vous l'avez créé plus haut! Vous pourrez y glisser tout votre travail personnel (par exemple, les dossiers relatifs à vos cours). Ce dossier restera confidentiel; il ne sera ni publié en ligne ni partagé avec moi ou vos collègues.
 
-Une dernière fois: **NE JAMAIS RENOMMER LES DOSSIERS _SharedFolder ET _PrivateFolder**.
+Pour que cela fonctionne: **il est nécessaire de ne pas nommer autrement les fichiers _SharedFolder ET _PrivateFolder**. Faites attention aux lettres majuscules et à la ponctuation!
 
-### Git et Github
+### Git et Github (et encore .gitignore)
 
-Éventuellement, vous serez appelé à «pusher» en ligne, sur Github, votre «trousse étudiante» que vous personnaliserez avec votre travail! Il est donc essentiel de la renommer (par exemple: «Maitrise»), comme il est suggéré à l'étape 3. Ensuite, pour «pusher» (ou déployer) votre trousse sur Github, vous devrez vous créer un compte Github... puis travailler à comprendre son fonctionnement! Comprenez bien: vous déploirez votre repo sur votre propre compte Github et non pas ici, sur celui de la CLESSN!
+Éventuellement, vous serez appelé à «pusher» en ligne, sur Github, votre «trousse étudiante» que vous personnaliserez avec votre travail. Il est donc essentiel de la renommer (par exemple: «Maitrise»), comme il est suggéré à l'étape 3. Ensuite, pour «pusher» (ou déployer) votre trousse sur Github, vous devrez vous créer un compte Github... puis travailler à comprendre son fonctionnement! Comprenez bien: vous déploierez votre repo sur votre propre compte Github et non pas celui de la CLESSN.
 
-Git n'aime pas que l'on entrepose des informations trop lourdes sur ses serveurs... Des repo trop costauds seront aussi plus long à télécharger. C'est une autre bonne raison pour laquelle vos données doivent se trouver dans votre _SharedFolder (qui est ignoré par Git!). Les fichiers pdf, png, jpg (et autres images) sont aussi préférablement entreposés dans le _SharedFolder (sauf exception). La taille de fichier maximale recommandée par GitHub est de 50 MB.
+Git n'aime pas que l'on entrepose des informations trop lourdes sur ses serveurs... Des repo trop costauds seront aussi plus longs à télécharger. C'est une autre bonne raison pour laquelle vos données doivent se trouver dans votre _SharedFolder (qui est ignoré par notre .gitignore). Les fichiers pdf et png sont aussi ignoré par le .gitignore. Elles doivent donc préférablement être entreposées dans le _SharedFolder. La taille de fichier maximale recommandée par GitHub est de 50 MB.
 
-Pour bien saisir la logique de Git et de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine YouTube The Coding Train (voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s). Ce genre de vidéo vous apprendra notamment à minimiser le risque d'erreurs sur Git. Notez bien la formule magique à inscrire dans votre terminal:
+Pour bien saisir la logique de Git et de Github, nous vous conseillons de visionner les tutoriels *Git and GitHub for Poets* de la chaine YouTube The Coding Train. Voici le lien du premier vidéo: https://www.youtube.com/watch?v=BCQHnlnPusY&t=3s. Ce genre de vidéo vous apprendra notamment à minimiser le risque d'erreurs sur Git. Notez bien la formule magique à inscrire dans votre terminal (oui, nous utilisons le terminal!):
 
 1. git add -A
-2. git commit -m "description du commit"
+2. git commit -m "écrire ici la description du commit"
 3. git pull
 4. git push
 
-Quand on fait un pull après un certain temps dans un repo, il est aussi important de taper ces codes dans le terminal dans cet ordre, même si nous n'avons rien modifié depuis longtemps. Parfois, un fichier caché a été modifié (.RData, .Rhistory ou .DS_Store). En commitant comme ça, on s’assure de ne pas avoir de bug.
+Quand on fait un pull après un certain temps dans un repo, il est tout aussi important de taper ces codes dans le terminal, même si nous n'avons rien modifié depuis longtemps. Parfois, un fichier caché a été modifié (.RData, .Rhistory ou .DS_Store). En «commitant» comme ça, on s’assure de ne pas avoir de conflits.
 
-Important: malheureusement, apprendre une formule magique n'est jamais une solution miracle. Il est plutôt nécessaire de comprendre les commandes et de pouvoir faire ce que l'on veut peu importe les circonstances. Dans certains cas, la formule ci-dessus pourrait être inappropriée!
+**Important**: malheureusement, apprendre une formule magique n'est jamais une solution miracle. Il est plutôt nécessaire de comprendre les commandes et de pouvoir faire ce que l'on veut, peu importe les circonstances. Dans certains cas, la formule ci-dessus pourrait être inappropriée!
 
 Pour en savoir plus, je vous invite aussi à consulter la «cheat sheet» sur Git qui est dans votre _SharedFolder -> _divers -> CheatSheets. Vous pouvez aussi compléter le cours Datacamp *Introduction to Git*.
 
@@ -114,7 +106,7 @@ Allez-y à votre rythme! L'introduction de chaque cours est gratuite, mais vous 
   
 ### Lectures
   
-Vous pouvez aussi déjà vous lancer dans la lecture de *KKV*. **Designing Social Inquiry (1994)** est un ouvrage d'introduction à la méthodologie de recherche en science sociale rédigé par Gary King, Robert Keohane et Sidney Verba (le surnom *KKV* vient des initiales de leur nom de famille!). Tous les étudiant.es de la CLESSN l'ont déjà lu une fois... ou plus! Le recueil «Devis de recherche», monté et utilisé pour le cours de Devis de recherche, est également une bonne lecture à faire. Vous le retrouverez dans _SharedFolder_trousseEtudiante -> _divers -> Recueils.
+Vous pouvez aussi déjà vous lancer dans la lecture de *KKV*. **Designing Social Inquiry (1994)** est un ouvrage d'introduction à la méthodologie de recherche en science sociale rédigé par Gary King, Robert Keohane et Sidney Verba (le surnom *KKV* vient des initiales de leur nom de famille). Tous.tes les étudiant.es de la CLESSN l'ont déjà lu une fois... ou plus! Le recueil «Devis de recherche», monté et utilisé pour le cours de Devis de recherche, est également une bonne lecture à faire. Vous le retrouverez dans _SharedFolder_trousseEtudiante -> _divers -> Recueils.
   
 ### Rencontres (et méthodes agiles)
   
@@ -123,7 +115,7 @@ Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pens
 À la chaire, nous opérons un virage organisationnel calqué sur les «Méthodes agiles». Ces méthodes permettent l'optimisation du temps et des ressources, afin de permettre un travail d'équipe efficace. Bien que nous ne respectons pas encore l'ensemble des techniques des méthodes agiles, plusieurs sont déjà bien implantées. Par exemple, chaque projet est dirigé par un «chargé de projet», qui s'occupe de suivre l'avancement des différentes tâches. Les «scrums» sont des rencontres rapides qui permettent à l'ensemble de l'équipe de faire le point. Il y en a 3 par semaine, en plus du *Mardi métho* et du *Jeudi 3P*. Vous êtes bien sûr invité à vous joindre à nous en personne ou via Slack (à distance, les rencontres se font dans la chaine **00_général**). Voici les heures de scrums et de rencontres:
 
   - Mardi, 15h30-16h30 (*Mardi métho*, on fait des lectures et on jase méthodologie);
-  - Mardi, 16h30-17h15 (scrum long de 45 minutes, pour suivre plus en détails l'avancement des projets);
+  - Mardi, 16h30-17h15 (scrum long de 45 minutes, pour suivre plus en détail l'avancement des projets);
   - Jeudi, 15h30-16h30 (*Jeudi 3P*, on présente un ou deux projets, et on les commente en équipe);
   - Jeudi, 16h30-16h45 (scrum court de 15 minutes);
   - Dimanche, 16h30-16h45 (scrum court de 15 minutes).
@@ -156,15 +148,18 @@ C'est au travers de Slack que nous discutons des différents projets en cours. V
 2. RADAR+: construction d'un outil pour entreposer et analyser les Unes des médias canadiens;
 3. Polimètre: conception d'un algorithme de pondération selon l'importance des promesses électorales;
 4. Livre CLESSN: écriture d'un livre d'introduction aux sciences sociales numériques;
-5. Build-a-Voter: déploiement d'une plateforme en ligne où l'on peut construire un électeur selon une multitudes de variables socio-démographiques et de «lifestyle» (mode de vie);
+5. Build-a-Voter: déploiement d'une plateforme en ligne où l'on peut construire un électeur selon une multitude de variables socio-démographiques et de «lifestyle» (mode de vie);
 6. Global-ES: nettoyage et uniformisation des études électorales de plusieurs pays;
 7. Boussole Japon: lancement d'une boussole électorale au Japon;
 8. Entre-voix: cueillette des textes des débats législatifs disponibles sur les sites web des parlements;
 9. Marché politique: création d'un marché (d'une loterie) sur la politique;
 10. Lobbying: analyse de réseau avec la base de données du registre des lobbyistes;
 11. Synopsis STM: élaboration de graphiques sur le STM pour un projet de la firme de marketing Synopsis;
-12. Tact conseil: développement d'un algorithme semi-supervisé pour l'analyse textuelle et production de graphiques;
+12. Tact: production de graphiques pour la firme de marketing Tact;
 13. Sondage COVID-19: réalisation d'un sondage sur le COVID-19 en partenariat avec le Centre canadien sur les dépendances et l'usage de substances.
+14. Articles COVID-19: rédaction de 2 articles pour la revue CJPS avec les données de Radar+.
+15. Sondage OBVIA: création d'un sondage sur l'utilisation de l'IA à l'ère du COVID-19.
+16. Projet KORUM: lancement d'une plateforme en ligne de vulgarisation graphique de données politiques, médiatiques et d’opinion publique.
   
 ### ICPSR
 
@@ -196,17 +191,17 @@ Il existe beaucoup d'autres bourses, à vous maintenant de fouiller et à me fai
 
 ### Cheminement «normal»
 
-Sachez aussi que la Faculté des sciences sociales offre un financement de 1400\$ en trois versements pour tous les étudiants qui effectuent leur Maîtrise en science politique dans des temps considérés comme étant «normaux» par la Faculté: https://www.bourses.fss.ulaval.ca/connexion. C'est-à-dire que vous pouvez réclamer 280\$ si vous complétez l'ensemble de vos cours en 3 sessions, un autre 420\$ si votre projet de recherche est défendu avant la 4e session, et un dernier 700$ si votre mémoire est déposé avant la 6e session. Conseil d'ami: prenez en considération ces délais, mais ne laissez pas l'argent vous aveugler. Mieux vaut un bon projet bien réfléchi, même s'il est défendu la 5e session. L'image ci-dessous est une copie du dossier d'un étudiant (qui, contrairement à vous, n'était pas au courant au début de ses études de l'existance de ce financement!).
+Sachez aussi que la Faculté des sciences sociales offre un financement de 1400\$ en trois versements pour tous les étudiants qui effectuent leur Maîtrise en science politique dans des temps considérés comme étant «normaux» par la Faculté: https://www.bourses.fss.ulaval.ca/connexion. C'est-à-dire que vous pouvez réclamer 280\$ si vous complétez l'ensemble de vos cours en 3 sessions, un autre 420\$ si votre projet de recherche est défendu avant la 4e session, et un dernier 700$ si votre mémoire est déposé avant la 6e session. Conseil d'ami: prenez en considération ces délais, mais ne laissez pas l'argent vous aveugler. Mieux vaut un bon projet bien réfléchi, même s'il est défendu la 5e session. L'image ci-dessous est une copie du dossier d'un étudiant (qui, contrairement à vous, n'était pas au courant au début de ses études de l'existence de ce financement!).
 
-![](Memoire/_divers/cheminementNormal.png)
+![](https://github.com/clessn/communication/blob/master/trousse_etudiante/cheminementNormal.jpg)
 
 ### Panique?
 
-Bien sûr que non! La CLESSN travaille dans l'objectif d'optimiser constamment son travail. Tous les étudiants ont réussi, en avançant pas-à-pas dans leurs apprentissages, à développer les outils essentiels à leur cheminement scolaire et, en plus, à apporter leur propre contribution à la chaire. Pas de panique, donc, si vous n'avez jamais codé et si tout ça semble complexe! C'est complètement à votre portée. 
+Bien sûr que non! La CLESSN travaille dans l'objectif d'optimiser constamment son travail. Tous les étudiants ont réussi, en avançant pas-à-pas dans leurs apprentissages, à développer les outils essentiels à leur cheminement scolaire et, en plus, à apporter leur propre contribution à la chaire. Pas de panique, donc, si vous n'avez jamais codé et si tout ça semble complexe! C'est complètement à votre portée. Et n'hésitez jamais à nous poser vos questions.
 
 Je vous souhaite d'excellentes études.
 Je vous l'assure, le temps passera très vite!
 
 ## Yannick Dufresne
 
-![](Memoire/_divers/CLESSN-UL-NOIR.png)
+![](https://github.com/clessn/communication/blob/master/trousse_etudiante/CLESSN-UL-NOIR.jpg)
