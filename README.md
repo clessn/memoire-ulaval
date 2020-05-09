@@ -21,7 +21,7 @@ N'ayez crainte, ça finira rapidement par être très simple!
 8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
 9. Installer RStudio, le logiciel qui héberge R et LaTeX (https://rstudio.com/products/rstudio/download/);
 10. Dans votre Dropbox, vous pouvez déjà créer un autre dossier nommé «CLESSN» (il servira à entreposer tous les projets de notre équipe). 
-11. Vous pouvez aussi déjà nous envoyer une photo professionnelle de vous que nous ajouterons à notre site internet (clessn.com).
+11. Vous pouvez aussi déjà nous envoyer une photo professionnelle de vous que nous ajouterons à notre site internet (https://www.clessn.com/).
 12. Si vous n'en avez pas déjà une, il faudrait aussi vous créer une adresse gmail. Elle vous servira sur notre Google Calendar commun, mais elle sera aussi utile pour vous créer une adresse courriel @clessn.com!
 
 Pour davantage d'informations sur les différentes installations, vous pouvez consulter l'onglet «Wiki» en haut de cette page. 
