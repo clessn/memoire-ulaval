@@ -7,9 +7,9 @@ Le fichier README (que vous consultez actuellement) permet de détailler tous le
 
 N'ayez crainte, ça finira rapidement par être très simple!
 
-**À noter**: pour le moment, vous constaterez que ce repository et le Dropbox associés sont plutôt adaptés aux études à la maitrise. N'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au baccalauréat, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). **Il est cependant important de bien lire ce fichier README**. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
+**À noter**: pour le moment, vous constaterez que ce repository et le Dropbox associés sont plutôt adaptés aux études à la maitrise. N'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au baccalauréat, au doctorat ou au postdoctorat, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). **Il est cependant important de bien lire ce fichier README**. N'hésitez pas non plus à réfléchir à la logique des différents dossiers, voire à les adapter en fonction de vos propres besoins!
 
-### D'abord, voici les 10 premières étapes à suivre au départ d’une supervision :
+### D'abord, voici les 12 premières étapes à suivre au départ d’une supervision :
 
 1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (~17,50$CA/mois quand on prend l'abonnement annuel);
 2. Télécharger ce repository en cliquant sur le bouton vert «Clone or download» ci-dessus, puis sur «Download ZIP», et le stocker dans votre Dropbox;
@@ -20,9 +20,11 @@ N'ayez crainte, ça finira rapidement par être très simple!
 7. Installer R, qui sert à l’analyse de données (https://www.r-project.org/); 
 8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
 9. Installer RStudio, le logiciel qui héberge R et LaTeX (https://rstudio.com/products/rstudio/download/);
-10. Dans votre Dropbox, vous pouvez déjà créer un autre dossier nommé «CLESSN» (il servira à entreposer tous les projets de notre équipe).
+10. Dans votre Dropbox, vous pouvez déjà créer un autre dossier nommé «CLESSN» (il servira à entreposer tous les projets de notre équipe). 
+11. Vous pouvez aussi déjà nous envoyer une photo professionnelle de vous que nous ajouterons à notre site internet (clessn.com).
+12. Si vous n'en avez pas déjà une, il faudrait aussi vous créer une adresse gmail. Elle vous servira sur notre Google Calendar commun, mais elle sera aussi utile pour vous créer une adresse courriel @clessn.com!
 
-Pour davantage d'informations sur les installations, vous pouvez consulter l'onglet «Wiki» en haut de cette page. 
+Pour davantage d'informations sur les différentes installations, vous pouvez consulter l'onglet «Wiki» en haut de cette page. 
 
 C'est fait? Bravo! Le plus dur est passé!
 Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
@@ -138,7 +140,8 @@ Il existe beaucoup d'autres chaines Slack. Plusieurs sont publiques (vous pouvez
   - rss_985 (amateur de Paul Archand? Retrouvez chaque matin toutes les chroniques de son émission Puisqu'il faut se lever!);
   - rss_lapresse (en temps réel, vous recevrez des notifications des nouvelles politiques de La Presse);
   - 98_méthode_analyse-textuelle (vous avez des questions à propos de l'analyse textuelle? C'est l'endroit!);
-  - 99_random (pour tout... et surtout rien).
+  - 99_random (pour tout... et surtout rien);
+  - 99_veille-académique (pour recevoir une fois par semaine des articles pertinents à notre champ d'étude).
   
 ### Nos projets
 
@@ -191,7 +194,7 @@ Il existe beaucoup d'autres bourses, à vous maintenant de fouiller et à me fai
 
 ### Cheminement «normal»
 
-Sachez aussi que la Faculté des sciences sociales offre un financement de 1400\$ en trois versements pour tous les étudiants qui effectuent leur Maîtrise en science politique dans des temps considérés comme étant «normaux» par la Faculté: https://www.bourses.fss.ulaval.ca/connexion. C'est-à-dire que vous pouvez réclamer 280\$ si vous complétez l'ensemble de vos cours en 3 sessions, un autre 420\$ si votre projet de recherche est défendu avant la 4e session, et un dernier 700$ si votre mémoire est déposé avant la 6e session. Conseil d'ami: prenez en considération ces délais, mais ne laissez pas l'argent vous aveugler. Mieux vaut un bon projet bien réfléchi, même s'il est défendu la 5e session. L'image ci-dessous est une copie du dossier d'un étudiant (qui, contrairement à vous, n'était pas au courant au début de ses études de l'existence de ce financement!).
+Sachez aussi que la Faculté des sciences sociales offre un financement pour tous les étudiants qui effectuent leurs études dans des temps considérés comme étant «normaux» par la Faculté: https://www.bourses.fss.ulaval.ca/connexion. À la maitrise en science politique, c'est 1400\$ en trois versements, c'est-à-dire que vous pouvez réclamer 280\$ si vous complétez l'ensemble de vos cours en 3 sessions, un autre 420\$ si votre projet de recherche est défendu avant la 4e session, et un dernier 700$ si votre mémoire est déposé avant la 6e session. Conseil d'ami: prenez en considération ces délais, mais ne laissez pas l'argent vous aveugler. Mieux vaut un bon projet bien réfléchi, même s'il est défendu la 5e session. L'image ci-dessous est une copie du dossier d'un étudiant (qui, contrairement à vous, n'était pas au courant au début de ses études de l'existence de ce financement!).
 
 ![](https://github.com/clessn/communication/blob/master/trousse_etudiante/cheminementNormal.jpg)
 
