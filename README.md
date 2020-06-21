@@ -116,11 +116,11 @@ Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pens
 
 À la chaire, nous opérons un virage organisationnel calqué sur les «Méthodes agiles». Ces méthodes permettent l'optimisation du temps et des ressources, afin de permettre un travail d'équipe efficace. Bien que nous ne respectons pas encore l'ensemble des techniques des méthodes agiles, plusieurs sont déjà bien implantées. Par exemple, chaque projet est dirigé par un «chargé de projet», qui s'occupe de suivre l'avancement des différentes tâches. Les «scrums» sont des rencontres rapides qui permettent à l'ensemble de l'équipe de faire le point. Il y en a 3 par semaine, en plus du *Mardi métho* et du *Jeudi 3P*. Vous êtes bien sûr invité à vous joindre à nous en personne ou via Slack (à distance, les rencontres se font dans la chaine **00_général**). Voici les heures de scrums et de rencontres:
 
-  - Mardi, 15h30-16h30 (*Mardi métho*, on fait des lectures et on jase méthodologie);
-  - Mardi, 16h30-17h15 (scrum long de 45 minutes, pour suivre plus en détail l'avancement des projets);
-  - Jeudi, 15h30-16h30 (*Jeudi 3P*, on présente un ou deux projets, et on les commente en équipe);
-  - Jeudi, 16h30-16h45 (scrum court de 15 minutes);
-  - Dimanche, 16h30-16h45 (scrum court de 15 minutes).
+  - Mardi, 15h30-16h15 (scrum long de 45 minutes, pour suivre plus en détail l'avancement des projets);
+  - Mardi, 16h15-17h00 (*Mardi métho*, on fait des lectures et on jase méthodologie);
+  - Jeudi, 15h30-15h45 (scrum court de 15 minutes);
+  - Jeudi, 15h45-16h45 (*Jeudi 3P*, on présente un ou deux projets, et on les commente en équipe);
+  - Dimanche, 15h30-15h45 (scrum court de 15 minutes).
   
 ### Slack
   
