@@ -45,7 +45,8 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 Vous constaterez que certains des dossiers présentés ci-dessous ne sont pas présents dans le repo. Ce sera donc à vous de les créer! La raison est fort simple: dans git, on ne peut pas «commiter» des dossiers vides, car git ne sauvegarde pas réellement les dossiers, mais seulement les fichiers. À vous, par exemple, de créer les dossiers *_divers* ou *article1* et leur contenu, si vous choisissez de réaliser un mémoire par articles (plus de détails là-dessus dans la section suivante).
 
-1. **Memoire**: c'est dans ce dossier que vous pourrez prochainement commencer la rédaction de votre mémoire;
+1. **gabaritRmd_memoireULaval**: c'est dans ce dossier que vous pourrez prochainement commencer la rédaction de votre mémoire;
+  - *index*: dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre;
   - *_divers*: sert à entreposer tous les divers éléments intéressants ou nécessaires à votre mémoire, **mais pas les données**;
   - *article1*: ici vous procéderez à l'analyse et à la rédaction de votre 1er article;
     - _graphs: ici se trouveront vos graphiques finaux à être insérés dans votre article 1;
@@ -53,7 +54,6 @@ Vous constaterez que certains des dossiers présentés ci-dessous ne sont pas pr
     - writing: vous pourrez créer un beau document RMarkdown pour la rédaction de votre article 1;
   - *article2*: puis vous poursuivrez avec l'article 2;
   - *devis*: puisque vous devrez défendre votre devis de recherche devant votre comité, mieux vaut prévoir un dossier où vous le rédigerez. Pour l'instant, vous y retrouverez le gabarit officiel du mémoire de l'Ulaval en format LaTeX;
-  - *index*: dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre;
 2. **README.md**: tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instructions du dossier;
 3. **.gitignore**: le fichier texte (caché) .gitignore est nécessaire, comme son nom l'indique, pour ignorer la mise en ligne de certains fichiers à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré lors d'un «push» en ligne par le .gitignore. Allez voir par vous-même!
 
@@ -142,27 +142,6 @@ Il existe beaucoup d'autres chaines Slack. Plusieurs sont publiques (vous pouvez
   - 98_méthode_analyse-textuelle (vous avez des questions à propos de l'analyse textuelle? C'est l'endroit!);
   - 99_random (pour tout... et surtout rien);
   - 99_veille-académique (pour recevoir une fois par semaine des articles pertinents à notre champ d'étude).
-  
-### Nos projets
-
-C'est au travers de Slack que nous discutons des différents projets en cours. Voici une liste (non exhaustive) de ceux-ci (les numéros associés correspondent d'ailleurs aux numéros des chaines Slack!):
-
-1. INSPQ: création d'un sondage sur les perceptions par rapport à l'alcool;
-2. RADAR+: construction d'un outil pour entreposer et analyser les Unes des médias canadiens;
-3. Polimètre: conception d'un algorithme de pondération selon l'importance des promesses électorales;
-4. Livre CLESSN: écriture d'un livre d'introduction aux sciences sociales numériques;
-5. Build-a-Voter: déploiement d'une plateforme en ligne où l'on peut construire un électeur selon une multitude de variables socio-démographiques et de «lifestyle» (mode de vie);
-6. Global-ES: nettoyage et uniformisation des études électorales de plusieurs pays;
-7. Boussole Japon: lancement d'une boussole électorale au Japon;
-8. Entre-voix: cueillette des textes des débats législatifs disponibles sur les sites web des parlements;
-9. Marché politique: création d'un marché (d'une loterie) sur la politique;
-10. Lobbying: analyse de réseau avec la base de données du registre des lobbyistes;
-11. Synopsis STM: élaboration de graphiques sur le STM pour un projet de la firme de marketing Synopsis;
-12. Tact: production de graphiques pour la firme de marketing Tact;
-13. Sondage COVID-19: réalisation d'un sondage sur le COVID-19 en partenariat avec le Centre canadien sur les dépendances et l'usage de substances.
-14. Articles COVID-19: rédaction de 2 articles pour la revue CJPS avec les données de Radar+.
-15. Sondage OBVIA: création d'un sondage sur l'utilisation de l'IA à l'ère du COVID-19.
-16. Projet KORUM: lancement d'une plateforme en ligne de vulgarisation graphique de données politiques, médiatiques et d’opinion publique.
   
 ### ICPSR
 
