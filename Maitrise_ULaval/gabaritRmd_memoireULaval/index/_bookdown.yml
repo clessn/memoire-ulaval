@@ -1,0 +1,6 @@
+book_filename: "Memoire_PrénomNom"
+chapter_name: "Chapitre "
+rmd_files: ["index.Rmd", "01-article1.Rmd", "02-article2.Rmd",
+"03-conclusion.Rmd", "99-references.Rmd"]
+download: [["thesis.pdf", "PDF"], ["thesis.epub", "EPUB"], ["thesis.docx", "Word"]]
+delete_merged_file: true

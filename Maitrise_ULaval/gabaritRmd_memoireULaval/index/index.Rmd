@@ -1,0 +1,58 @@
+---
+auteur: 'Prénom Nom' # Entrer le nom de l'auteur entre ' '
+date: 'Mois Année ' # Entrer la date du dépôt entre ' '
+directeur: 'Prénom Nom' # Entrer le nom du directeur/directrice de recherche entre ' '
+direction: 'directeur' # Entrer 'directeur' ou 'directrice', en fonction du sexe du directeur/directrice de recherche, sans majuscule
+#codirecteur: 'Un Tel' # Entrer le nom du codirecteur/codirectrice de recherche entre ' '
+#codirection: 'codirecteur-ice' # Entrer 'codirecteur' ou 'codirectrice', en fonction du sexe du codirecteur/codirectrice de recherche
+departement: 'science politique' # Entrer le nom du département délivrant le diplôme entre ' ', sans majuscule
+grade: 'M.A.' # Entrer le type de grade entre ' ' (M.A., M.Sc., PhD, etc.)
+diplome: 'Maîtrise' # Entrer le nom du diplôme entre ' ' (Maîtrise, Doctorat, etc.)
+type: 'Mémoire' # Entrer le type de projet entre ' ' (Essai, mémoire, thèse, etc.)
+# Entrer le titre entre sur la première ligne, et le sous-titre sur la 2e
+titre: | 
+          | Titre
+          |  Sous-titre
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+output: 
+  thesisdown::thesis_pdf: 
+      latex_engine: xelatex
+bibliography: bib/bibfile.bib
+csl: csl/apa.csl
+lof: true
+lot: false
+header-includes:
+- \usepackage{setspace}
+- \usepackage[labelfont=bf,textfont=md]{caption}
+- \usepackage{float}
+- \usepackage[nottoc]{tocbibind} # pour ajouter les lof et lot dans la toc
+- \AtBeginDocument{\renewcommand{\contentsname}{Table des matières}}
+- \AtBeginDocument{\renewcommand{\listfigurename}{Liste des figures}}
+- \AtBeginDocument{\renewcommand{\listtablename}{Liste des tableaux}}
+- \AtBeginDocument{\renewcommand{\chaptername}{Article}}
+- \usepackage{pdflscape}
+- \newcommand{\blandscape}{\begin{landscape}}
+- \newcommand{\elandscape}{\end{landscape}}
+resume: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-resume.Rmd"), collapse = '\n  ')`
+abstract: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00-abstract.Rmd"), collapse = '\n  ')`
+remerciements: |
+  `r if(knitr:::is_latex_output()) paste(readLines("00--remerciements.Rmd"), collapse = '\n  ')`
+---
+
+```{r include_packages, include = FALSE}
+# Cette partie du code s'assure que les le thesisdown package est installé et chargé.
+if(!require(devtools))
+  install.packages("devtools", repos = "http://cran.rstudio.com")
+if(!require(thesisdown))
+  devtools::install_github("ismayc/thesisdown")
+library(thesisdown)
+```
+
+\doublespace
+
+# Introduction {-}
+
+Rédiger ici l'introduction de votre mémoire.

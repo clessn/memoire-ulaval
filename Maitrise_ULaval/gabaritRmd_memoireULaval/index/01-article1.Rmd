@@ -1,0 +1,18 @@
+# Votre titre
+
+## Abstract
+> Rédigez ici votre abstract (en anglais).
+
+## Résumé
+> Rédigez ici votre résumé (en français)
+
+>**Keywords**
+Écrire ici vos mots-clés
+
+## Texte
+
+Rédigez ici votre étude.
+
+## References
+
+## Appendix
