@@ -31,30 +31,21 @@ Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
 ### La logique du dossier Dropbox (_SharedFolder_trousseEtudiante), fichier par fichier :
 
-1. **_data_article1**: ici, vous entreposerez les données de votre article 1;
-2. **_data_article2**: même chose ici, pour l'article 2;
-3. **_divers**: on vous a déjà mis les cheat sheets pertinentes des guides de rédaction et les recueils créés par la CLESSN pour faciliter l'apprentissage de méthodologies;
-4. **Conferences**: vous participerez sans doute à plusieurs conférences pendant vos études. Vous trouverez dans ce dossier les plus pertinentes;
-5. **Financement**: il est essentiel d'appliquer pour l'obtention de bourses d'études! Vous trouverez ici les plus importantes et leurs instructions;
-6. **Formations**: vous serez invité à participer à l'école d'été méthodologique ICPSR de l'Université du Michigan! Il s'agit d'un excellent complément à votre formation. Les cours en ligne de Datacamp serviront aussi à solidifier votre base en R;
-7. **Litterature**: ici, vous entreposerez votre fichier Bibtex contenant toute la bibliographie de votre mémoire. Commencez à la nourrir dès maintenant!
+1. **_divers**: on vous a déjà mis les cheat sheets pertinentes des guides de rédaction et les recueils créés par la CLESSN pour faciliter l'apprentissage de méthodologies;
+2. **Conferences**: vous participerez sans doute à plusieurs conférences pendant vos études. Vous trouverez dans ce dossier les plus pertinentes;
+3. **Data**: ici, vous entreposerez les données de votre mémoire;
+4. **Financement**: il est essentiel d'appliquer pour l'obtention de bourses d'études! Vous trouverez ici les plus importantes et leurs instructions;
+5. **Formations**: vous serez invité à participer à l'école d'été méthodologique ICPSR de l'Université du Michigan! Il s'agit d'un excellent complément à votre formation. Les cours en ligne de Datacamp serviront aussi à solidifier votre base en R;
+6. **Litterature**: ici, vous entreposerez votre fichier Bibtex contenant toute la bibliographie de votre mémoire. Commencez à la nourrir dès maintenant!
   
 ![](https://github.com/clessn/communication/blob/master/trousse_etudiante/pathShared.jpg)
 
 ### La logique du dossier Github (trousse_etudiante), fichier par fichier:
 
-Vous constaterez que certains des dossiers présentés ci-dessous ne sont pas présents dans le repo. Ce sera donc à vous de les créer! La raison est fort simple: dans git, on ne peut pas «commiter» des dossiers vides, car git ne sauvegarde pas réellement les dossiers, mais seulement les fichiers. À vous, par exemple, de créer les dossiers *_divers* ou *article1* et leur contenu, si vous choisissez de réaliser un mémoire par articles (plus de détails là-dessus dans la section suivante).
-
 1. **gabaritRmd_memoireULaval**: c'est dans ce dossier que vous pourrez prochainement commencer la rédaction de votre mémoire;
   - *index*: dans index, vous trouverez le gabarit RMarkdown pour la rédaction d'un mémoire par article. Amusez-vous à fouiller les différents dossiers et à les comprendre;
-  - *_divers*: sert à entreposer tous les divers éléments intéressants ou nécessaires à votre mémoire, **mais pas les données**;
-  - *article1*: ici vous procéderez à l'analyse et à la rédaction de votre 1er article;
-    - _graphs: ici se trouveront vos graphiques finaux à être insérés dans votre article 1;
-    - code: ici se retrouvera votre fichier R;
-    - writing: vous pourrez créer un beau document RMarkdown pour la rédaction de votre article 1;
-  - *article2*: puis vous poursuivrez avec l'article 2;
-  - *devis*: puisque vous devrez défendre votre devis de recherche devant votre comité, mieux vaut prévoir un dossier où vous le rédigerez. Pour l'instant, vous y retrouverez le gabarit officiel du mémoire de l'Ulaval en format LaTeX;
-2. **README.md**: tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instructions du dossier;
+  - *README.md*: ce fichier contient les instructions relative aux dossiers «index»;
+2. **README.md**: Un autre! Tout bon logiciel, package ou repository a un README. Il s'agit simplement d'un fichier texte contenant la description et les instructions du dossier;
 3. **.gitignore**: le fichier texte (caché) .gitignore est nécessaire, comme son nom l'indique, pour ignorer la mise en ligne de certains fichiers à l'intérieur de notre repository Github. Par exemple, dans notre cas, même si nous avons ajouté le _SharedFolder_trousseEtudiante à l'intérieur de trousse_etudiante, il sera ignoré lors d'un «push» en ligne par le .gitignore. Allez voir par vous-même!
 
 ![](https://github.com/clessn/communication/blob/master/trousse_etudiante/pathMemoire.jpg)
@@ -126,13 +117,12 @@ Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pens
   
 Si vous êtes à distance, les rencontres (scrums) se font aussi sur Slack (bien qu'il soit préférable d'être à l'Université le plus régulièrement possible). D'ailleurs, Slack est notre outil de communication et d'archivage principal. Déjà, vous pouvez demander d'être ajouté aux chaines suivantes:
 
-  - 00_calendrier (pour recevoir les notifications du Google Calendar de la CLESSN);
-  - 00_communication (pour la communication de la chaire);
-  - 00_financement (pour le financement de la chaire);
+  - 00__communication (pour la communication de la chaire);
+  - 00__financement (pour le financement de la chaire);
+  - 00__publications (pour suivre l'évolution des publications de la chaire);
   - 00_général (pour les rencontres, et les discussions générales);
   - 00_git (pour suivre l'évolution des commits git);
   - 00_mardi-metho (pour organiser les mardis méthos);
-  - 00_publication (pour suivre l'évolution des publications de la chaire);
   - 99_sante-bien-etre (pour assurer la santé et le bien-être à la chaire!).
   
 Il existe beaucoup d'autres chaines Slack. Plusieurs sont publiques (vous pouvez les trouver vous-même et vous y ajouter en cliquant sur «Canaux»), d'autres sont privées (vous devez demander d'y être ajoutées). À la CLESSN, les chaines débutant par 00 sont les chaines de bases. D'autres chaines existent ensuite selon les projets (01, 02, etc.), et vous y serez ajouté selon votre participation à ceux-ci. Les chaines 98 sont dédiées aux discussions méthodologiques. Les chaines 99 sont des chaines mélimélos, parfois plus ludiques. Voici, d'ailleurs, certaines chaines qui pourraient vous intéresser (il y en a beaucoup d'autres!):
