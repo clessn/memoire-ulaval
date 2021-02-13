@@ -7,15 +7,17 @@ Le fichier README (que vous consultez actuellement) permet de détailler tous le
 
 N'ayez crainte, ça finira rapidement par être très simple!
 
-**À noter**: pour le moment, vous constaterez que ce repository et le Dropbox associés sont plutôt adaptés aux études à la maitrise. N'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. Étudiant.es au baccalauréat, au doctorat ou au postdoctorat, le repository n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). **Il est cependant important de bien lire ce fichier README**. N'hésitez pas à réfléchir à la logique des différents dossiers, et à les adapter en fonction de vos propres besoins!
+**À noter**: pour le moment, vous constaterez que ce repository et le Dropbox associés sont plutôt adaptés aux études à la maitrise. N'empêche que toute l'information sera pertinente à votre entrée dans notre équipe, peu importe votre niveau universitaire. 
+
+Étudiant.es au baccalauréat, au doctorat ou au postdoctorat, le repository Github n'est pas nécessaire à télécharger (il contient surtout des modèles pour le mémoire). **Il est cependant important de bien lire ce fichier README**. N'hésitez pas à réfléchir à la logique des différents dossiers, et à les adapter en fonction de vos propres besoins!
 
 ### D'abord, voici les 12 premières étapes à suivre au départ d’une supervision :
 
 1. Acheter un Dropbox professionnel et l'installer sur votre ordinateur (~17,50$CA/mois quand on prend l'abonnement annuel);
-2. Télécharger ce repository en cliquant sur le bouton vert «Clone or download» ci-dessus, puis sur «Download ZIP», et le stocker dans votre Dropbox;
+2. Étudiant(e) à la maitrise, télécharger ce repository en cliquant sur le bouton vert «Clone or download» ci-dessus, puis sur «Download ZIP», et le stocker dans votre Dropbox;
 3. Le renommer comme il vous plait (par exemple: «Maitrise»);
 4. Ajouter le dossier Dropbox «_SharedFolder_trousseEtudiante» qui vous a été partagé **À L'INTÉRIEUR** du repository *trousse_etudiante* (que l'on a renommé «Maitrise»);
-5. Créer un dossier nommé «_PrivateFolder_trousseEtudiante» et le glisser dans «Maitrise». **Il est important de ne pas nommer différemment vos dossiers _SharedFolder ET _PrivateFolder**;
+5. Créer (si désiré) un dossier nommé «_PrivateFolder_trousseEtudiante» et le glisser dans «Maitrise». **Il est important de ne pas nommer différemment vos dossiers _SharedFolder ET _PrivateFolder**;
 6. Installer Slack, qui sert aux communications de l'équipe (https://slack.com/intl/fr-ca/);
 7. Installer R, qui sert à l’analyse de données (https://www.r-project.org/); 
 8. Installer LaTeX, une plateforme de création de documents (https://www.latex-project.org/get/);
