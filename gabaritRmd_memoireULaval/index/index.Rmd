@@ -21,7 +21,7 @@ output:
 bibliography: bib/bibfile.bib
 csl: csl/apa.csl
 lof: true
-lot: false
+lot: true 
 header-includes:
 - \usepackage{setspace}
 - \usepackage[labelfont=bf,textfont=md]{caption}
