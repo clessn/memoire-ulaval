@@ -24,9 +24,9 @@ N'ayez crainte, ça finira rapidement par être très simple!
 9. Installer RStudio, le logiciel qui héberge R et LaTeX (https://rstudio.com/products/rstudio/download/);
 10. Dans votre Dropbox, vous pouvez déjà créer un autre dossier nommé «CLESSN» (il servira à entreposer tous les projets de notre équipe). 
 11. Vous pouvez aussi déjà nous envoyer une photo professionnelle de vous que nous ajouterons à notre site internet (https://www.clessn.com/).
-12. Si vous n'en avez pas déjà une, il faudrait aussi vous créer une adresse gmail. Elle vous servira sur notre Google Calendar commun, mais elle sera aussi utile pour vous créer une adresse courriel @clessn.com!
+12. Si vous n'en avez pas déjà une, il faudrait aussi vous créer une adresse gmail. Elle vous servira sur notre Google Calendar commun.
 
-Pour davantage d'informations sur les différentes installations, vous pouvez consulter l'onglet «Wiki» en haut de cette page. 
+Pour davantage d'informations sur les différentes installations, vous pouvez consulter l'onglet «Wiki» en haut de cette page.
 
 C'est fait? Bravo! Le plus dur est passé!
 Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
@@ -107,31 +107,23 @@ Vous pouvez aussi déjà vous lancer dans la lecture de *KKV*. **Designing Socia
   
 Vous n'avez jamais codé en R et vous avez tapé "Mark Down" dans Google en pensant qu'il s'agissait d'un grand scientifique anglais? Aucune crainte! Vous êtes au bon endroit pour vous initier et rapidement développer une expertise dans les sciences sociales numériques. Plusieurs étudiant.es de l'équipe n'avaient jamais codé avant leur arrivée! Pour apprendre rapidement, le mieux est de commencer maintenant, et d'en faire un peu tous les jours. Quelques pages de KKV, une vidéo YouTube, un cours de Datacamp, et surtout, la participation aux scrums! 
 
-À la chaire, nous opérons un virage organisationnel calqué sur les «Méthodes agiles». Ces méthodes permettent l'optimisation du temps et des ressources, afin de permettre un travail d'équipe efficace. Bien que nous ne respectons pas encore l'ensemble des techniques des méthodes agiles, plusieurs sont déjà bien implantées. Par exemple, chaque projet est dirigé par un «chargé de projet», qui s'occupe de suivre l'avancement des différentes tâches. Les «scrums» sont des rencontres rapides qui permettent à l'ensemble de l'équipe de faire le point. Il y en a 3 par semaine, en plus du *Mardi métho* et du *Jeudi 3P*. Vous êtes bien sûr invité à vous joindre à nous en personne ou via Slack (à distance, les rencontres se font dans la chaine **00_général**). Voici les heures de scrums et de rencontres:
-
-  - Mardi, 15h30-16h15 (scrum long de 45 minutes, pour suivre plus en détail l'avancement des projets);
-  - Mardi, 16h15-17h00 (*Mardi métho*, on fait des lectures et on jase méthodologie);
-  - Jeudi, 15h30-15h45 (scrum court de 15 minutes);
-  - Jeudi, 15h45-16h45 (*Jeudi 3P*, on présente un ou deux projets, et on les commente en équipe);
-  - Dimanche, 15h30-15h45 (scrum court de 15 minutes).
+À la chaire, nous opérons un virage organisationnel calqué sur les «Méthodes agiles». Ces méthodes permettent l'optimisation du temps et des ressources, afin de permettre un travail d'équipe efficace. Bien que nous ne respectons pas encore l'ensemble des techniques des méthodes agiles, plusieurs sont déjà bien implantées. Par exemple, chaque projet est dirigé par un «chargé de projet», qui s'occupe de suivre l'avancement des différentes tâches. Les «scrums» sont des rencontres rapides qui permettent à l'ensemble de l'équipe de faire le point. Il y en a 2 par semaine. Vous êtes bien sûr invité à vous joindre à nous en personne ou via Zoom. Les heures du scrum et des rencontres sont disponibles dans le calendrier partagé de la CLESSN.
   
 ### Slack
   
-Si vous êtes à distance, les rencontres (scrums) se font aussi sur Slack (bien qu'il soit préférable d'être à l'Université le plus régulièrement possible). D'ailleurs, Slack est notre outil de communication et d'archivage principal. Déjà, vous pouvez demander d'être ajouté aux chaines suivantes:
+Si vous êtes à distance, les rencontres (scrums) se font aussi sur Zoom (bien qu'il soit préférable d'être à l'Université le plus régulièrement possible). D'ailleurs, Slack est notre outil de communication et d'archivage principal. Déjà, vous pouvez demander d'être ajouté aux chaines suivantes:
 
   - 00__communication (pour la communication de la chaire);
   - 00__financement (pour le financement de la chaire);
   - 00__publications (pour suivre l'évolution des publications de la chaire);
   - 00_général (pour les rencontres, et les discussions générales);
   - 00_git (pour suivre l'évolution des commits git);
-  - 00_mardi-metho (pour organiser les mardis méthos);
   - 99_sante-bien-etre (pour assurer la santé et le bien-être à la chaire!).
   
 Il existe beaucoup d'autres chaines Slack. Plusieurs sont publiques (vous pouvez les trouver vous-même et vous y ajouter en cliquant sur «Canaux»), d'autres sont privées (vous devez demander d'y être ajoutées). À la CLESSN, les chaines débutant par 00 sont les chaines de bases. D'autres chaines existent ensuite selon les projets (01, 02, etc.), et vous y serez ajouté selon votre participation à ceux-ci. Les chaines 98 sont dédiées aux discussions méthodologiques. Les chaines 99 sont des chaines mélimélos, parfois plus ludiques. Voici, d'ailleurs, certaines chaines qui pourraient vous intéresser (il y en a beaucoup d'autres!):
 
   - rss_985 (amateur de Paul Archand? Retrouvez chaque matin toutes les chroniques de son émission Puisqu'il faut se lever!);
   - rss_lapresse (en temps réel, vous recevrez des notifications des nouvelles politiques de La Presse);
-  - 98_méthode_analyse-textuelle (vous avez des questions à propos de l'analyse textuelle? C'est l'endroit!);
   - 99_random (pour tout... et surtout rien);
   - 99_veille-académique (pour recevoir une fois par semaine des articles pertinents à notre champ d'étude).
   
