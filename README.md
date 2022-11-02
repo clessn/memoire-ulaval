@@ -1,3 +1,5 @@
+**N.B.: En date de novembre 2022, la trousse étudiante a migré vers le site Notion de la CLESSN et le gabarit de mémoire est disponible au sein du dépôt [gabaritRmd_memoireULaval](https://github.com/clessn/gabaritRmd_memoireULaval).**
+
 # Cher(ère) étudiant(e)
 
 ## Supervision par Yannick Dufresne, Université Laval
