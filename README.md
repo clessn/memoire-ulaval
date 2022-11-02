@@ -26,6 +26,8 @@ N'ayez crainte, ça finira rapidement par être très simple!
 11. Vous pouvez aussi déjà nous envoyer une photo professionnelle de vous que nous ajouterons à notre site internet (https://www.clessn.com/).
 12. Si vous n'en avez pas déjà une, il faudrait aussi vous créer une adresse gmail. Elle vous servira sur notre Google Calendar commun.
 
+Pour davantage d'informations sur les différentes installations, vous pouvez consulter l'onglet «Wiki» en haut de cette page.
+
 C'est fait? Bravo! Le plus dur est passé!
 Maintenant, concentrons-nous sur la logique de vos nouveaux dossiers.
 
