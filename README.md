@@ -1,4 +1,4 @@
-**N.B.: En date de novembre 2022, la trousse étudiante a migré vers le site Notion de la CLESSN et le gabarit de mémoire est disponible au sein du dépôt [gabaritRmd_memoireULaval](https://github.com/clessn/gabaritRmd_memoireULaval).**
+**Novembre 2022: Ce dépôt est archivé. La trousse étudiante a migré vers le site Notion de la CLESSN et le gabarit de mémoire est disponible au sein du dépôt [gabaritRmd_memoireULaval](https://github.com/clessn/gabaritRmd_memoireULaval).**
 
 # Cher(ère) étudiant(e)
 
