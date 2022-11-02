@@ -12,7 +12,7 @@ Ce fichier LaTeX peut être transmis en même temps que le dépôt de votre mém
 Mis à part ce ReadMe, tout se trouve dans le dossier «index».
 Vous ne devez pas le renommer (car plus rien ne fonctionnera!).
 
-# À l'intérieur du dossier «index»
+## À l'intérieur du dossier «index»
 
 1. Vous trouverez d'abord le dossier «_book». C'est là où apparaitront vos fichiers pdf et tex après le knit.
 
@@ -35,5 +35,21 @@ Vous ne devez pas le renommer (car plus rien ne fonctionnera!).
 10. «template.tex» contient le code pour produire le format de votre mémoire. Normalement, à moins de problème ou de demande de modification, vous ne devriez rien y changer.
 
 11. «ulaval.cls» contient les normes ULaval pour le mémoire. Normalement, à moins de problème ou de demande de modification (comme l'année, à la ligne 337), vous ne devriez rien y changer.
+
+# Comment utiliser ce gabarit
+
+Installer les prérequis
+
+```
+install.packages(c('tinytex', 'rmarkdown'))
+tinytex::install_tinytex()
+# Après le redémarrage de RStudio, confirmer que vous avez LaTex avec
+tinytex:::is_tinytex()
+
+if (!require("remotes")) 
+  install.packages("remotes", repos = "https://cran.rstudio.org")
+remotes::install_github("rstudio/bookdown")
+remotes::install_github("ismayc/thesisdown")
+```
 
 # Bon travail! 
