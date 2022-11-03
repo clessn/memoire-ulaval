@@ -52,4 +52,10 @@ remotes::install_github("rstudio/bookdown")
 remotes::install_github("ismayc/thesisdown")
 ```
 
-# Bon travail! 
+# Crédits
+
+* Maxime Blanchard
+* Adrien Cloutier
+* Judith Bourque
+
+Ce gabarit est basé sur le package [thesisdown](https://github.com/ismayc/thesisdown)
