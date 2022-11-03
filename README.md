@@ -52,6 +52,8 @@ remotes::install_github("rstudio/bookdown")
 remotes::install_github("ismayc/thesisdown")
 ```
 
+Créer le fichier PDF final: ouvrir le fichier `index.Rmd` et knit.
+
 # Crédits
 
 * Maxime Blanchard
