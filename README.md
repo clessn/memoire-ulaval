@@ -13,28 +13,27 @@ Mis à part ce ReadMe, tout se trouve dans le dossier `/index`. Vous ne devez pa
 
 ## À l'intérieur du dossier `/index`
 
-1. Vous trouverez d'abord le dossier `/_book`. C'est là où apparaitront vos fichiers pdf et tex après le knit.
+* Le dossier `/index` est le plus important. C'est ce fichier Rmd que vous «knitterez» pour produire votre pdf et votre tex (qui apparaitront dans `/_book`). Vous pourrez rédiger l'introduction de votre mémoire au bas de ce fichier, et inscrire vos informations pour la page titre en haut.
 
-2. Le fichier `_bookdown.yml` permet de renommer vos fichiers pdf et tex et d'indiquer les noms des fichiers Rmd à inclure dans le knit.
+* Le dossier `/_book` va être là où apparaitront vos fichiers pdf et tex après le knit.
 
-3. Le dossier `/_misc` contient un ramassis de trucs utiles, mais à ne pas toucher.
+* Vos sources doivent se trouver dans le fichier `bibfile.bib`, inclus dans le dossier `/bib`.
 
-4. Les fichers Rmd numérotés suivent. C'est à l'intérieur que vous rédigerez les différentes section de votre mémoire. Ce n'est pas, par contre, les fichiers que vous devez «knitter».
+* Le dossier `/csl` contient le bon format pour la bibliographie.
 
-5. Vos sources doivent se trouver dans le fichier `bibfile.bib`, inclus dans le dossier `/bib`.
+* Vous devez insérer toutes vos figures dans le dossier `/figure`.
 
-6. Ne touchez pas à `chemarr.sty`.
+* Le dossier `/_misc` contient un ramassis de trucs utiles, mais à ne pas toucher.
 
-7. Le dossier `/csl` contient le bon format pour la bibliographie.
+* `_bookdown.yml` permet de renommer vos fichiers pdf et tex et d'indiquer les noms des fichiers Rmd à inclure dans le knit.
 
-8. Vous devez insérer toutes vos figures dans le dossier `/figure`.
+* Les fichers Rmd numérotés suivent. C'est à l'intérieur que vous rédigerez les différentes section de votre mémoire. Ce n'est pas, par contre, les fichiers que vous devez «knitter».
 
-9. Le dossier `/index` est le plus important. C'est ce fichier Rmd que vous «knitterez» pour produire votre pdf et votre tex (qui apparaitront dans 
-`/_book`). Vous pourrez rédiger l'introduction de votre mémoire au bas de ce fichier, et inscrire vos informations pour la page titre en haut.
+* Ne touchez pas à `chemarr.sty`.
 
-10. `template.tex` contient le code pour produire le format de votre mémoire. Normalement, à moins de problème ou de demande de modification, vous ne devriez rien y changer.
+* `template.tex` contient le code pour produire le format de votre mémoire. Normalement, à moins de problème ou de demande de modification, vous ne devriez rien y changer.
 
-11. `ulaval.cls` contient les normes ULaval pour le mémoire. Normalement, à moins de problème ou de demande de modification (comme l'année, à la ligne 337), vous ne devriez rien y changer.
+* `ulaval.cls` contient les normes ULaval pour le mémoire. Normalement, à moins de problème ou de demande de modification (comme l'année, à la ligne 337), vous ne devriez rien y changer.
 
 # Comment utiliser ce gabarit
 
