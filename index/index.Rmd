@@ -4,7 +4,7 @@ date: 'Mois Année ' # Entrer la date du dépôt entre ' '
 directeur: 'Prénom Nom' # Entrer le nom du directeur/directrice de recherche entre ' '
 direction: 'directeur' # Entrer 'directeur' ou 'directrice', en fonction du sexe du directeur/directrice de recherche, sans majuscule
 #codirecteur: 'Un Tel' # Entrer le nom du codirecteur/codirectrice de recherche entre ' '
-#codirection: 'codirecteur-ice' # Entrer 'codirecteur' ou 'codirectrice', en fonction du sexe du codirecteur/codirectrice de recherche
+#codirection: 'codirecteur-ice' # Entrer 'codirecteur' ou 'codirectrice', en fonction du genre du codirecteur/codirectrice de recherche
 departement: 'science politique' # Entrer le nom du département délivrant le diplôme entre ' ', sans majuscule
 grade: 'M.A.' # Entrer le type de grade entre ' ' (M.A., M.Sc., PhD, etc.)
 diplome: 'Maîtrise' # Entrer le nom du diplôme entre ' ' (Maîtrise, Doctorat, etc.)
