@@ -15,7 +15,7 @@ Mis à part ce ReadMe, tout se trouve dans le dossier `/index`. Vous ne devez pa
 
 * Le dossier `/_book` va être là où apparaitront vos fichiers pdf et tex après le knit.
 
-* Vos sources doivent se trouver dans le fichier `bibfile.bib`, inclus dans le dossier `/bib`.
+* Dans le dossier `/bib`, vous allez ajouter vos sources dans le fichier `bibfile.bib`.
 
 * Le dossier `/csl` contient le bon format pour la bibliographie.
 
