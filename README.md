@@ -37,13 +37,11 @@ Mis à part ce ReadMe, tout se trouve dans le dossier `/index`. Vous ne devez pa
 
 # Comment utiliser ce gabarit
 
-Installer les prérequis
+1. Installer une version intégrale de LaTeX*
+2. Installer les prérequis dans R
 
-```
-install.packages(c('tinytex', 'rmarkdown'))
-tinytex::install_tinytex()
-# Après le redémarrage de RStudio, confirmer que vous avez LaTex avec
-tinytex:::is_tinytex()
+```R
+install.packages("rmarkdown"))
 
 if (!require("remotes")) 
   install.packages("remotes", repos = "https://cran.rstudio.org")
@@ -51,7 +49,11 @@ remotes::install_github("rstudio/bookdown")
 remotes::install_github("ismayc/thesisdown")
 ```
 
-Créer le fichier PDF final: ouvrir le fichier `index.Rmd` et knit.
+2. Cloner le repository localement
+3. *Knit* le fichier `index.Rmd`
+4. Terminé! Le fichier PDF s'ouvre automatiquement.
+
+*Sur Mac: [MacTex](https://tug.org/mactex/) (oui, c'est 5 GB...!)
 
 # Crédits
 
@@ -59,4 +61,4 @@ Créer le fichier PDF final: ouvrir le fichier `index.Rmd` et knit.
 * Adrien Cloutier
 * Judith Bourque
 
-Ce gabarit est basé sur le package [thesisdown](https://github.com/ismayc/thesisdown)
+Ce gabarit est basé sur le package [thesisdown](https://github.com/ismayc/thesisdown).
