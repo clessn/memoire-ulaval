@@ -55,6 +55,12 @@ remotes::install_github("ismayc/thesisdown")
 
 *Sur Mac: [MacTex](https://tug.org/mactex/) (oui, c'est 5 GB...!)
 
+# FAQ
+
+## Est-ce qu'un RProject est nécessaire pour compiler le gabarit vide?
+
+Non.
+
 # Crédits
 
 * Maxime Blanchard
