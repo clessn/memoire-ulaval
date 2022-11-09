@@ -51,7 +51,7 @@ remotes::install_github("ismayc/thesisdown")
 
 2. Cloner le repository localement
 3. *Knit* le fichier `index.Rmd`
-4. Terminé! Le fichier PDF s'ouvre automatiquement.
+4. Terminé! Le fichier PDF s'ouvre automatiquement et le fichier .tex est sauvegardé.
 
 *Sur Mac: [MacTex](https://tug.org/mactex/) (oui, c'est 5 GB...!)
 
