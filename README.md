@@ -49,9 +49,9 @@ remotes::install_github("rstudio/bookdown")
 remotes::install_github("ismayc/thesisdown")
 ```
 
-2. Cloner le repository localement
-3. *Knit* le fichier `index.Rmd`
-4. Terminé! Le fichier PDF s'ouvre automatiquement et le fichier .tex est sauvegardé.
+3. Dans ce repo, appuyer sur le bouton vert `Use this template` afin de créer un repository sur votre compte personnel
+4. Ouvrir et *knit* le fichier `index.Rmd`
+5. Terminé! Le fichier PDF s'ouvre automatiquement et le fichier .tex est également sauvegardé.
 
 *Sur Mac: [MacTex](https://tug.org/mactex/) (oui, c'est 5 GB...!)
 
