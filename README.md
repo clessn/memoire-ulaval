@@ -1,4 +1,4 @@
-
+# Gabarit .Rmd de mémoire de maîtrise à l'Université Laval
 
 Voici un gabarit .Rmd pour mémoire de maîtrise conforme aux normes de l'Université Laval.
 
@@ -61,10 +61,18 @@ remotes::install_github("ismayc/thesisdown")
 
 Non.
 
+## J'ai trouvé une erreur. Comment est-ce que je peux vous en informer?
+
+Vous pouvez soumettre l'erreur ou des suggestions dans l'onglet Issues de ce repo. Afin de faciliter la résolution de problèmes, merci d'inclure un [reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html).
+
 # Crédits
 
 * Maxime Blanchard
 * Adrien Cloutier
 * Judith Bourque
 
-Ce gabarit est basé sur le package [thesisdown](https://github.com/ismayc/thesisdown).
+Ce gabarit est basé en partie sur le package [thesisdown](https://github.com/ismayc/thesisdown).
+
+# Archive
+
+Le repository archivé [clessn/gabaritRmd_memoireULaval](https://github.com/clessn/gabaritRmd_memoireULaval) contient l'historique de certaines modifications et défis rencontrés.
