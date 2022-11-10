@@ -1,4 +1,4 @@
-# Gabarit Rmd pour le mémoire à l'Université Laval
+
 
 Voici un gabarit .Rmd pour mémoire de maîtrise conforme aux normes de l'Université Laval.
 
