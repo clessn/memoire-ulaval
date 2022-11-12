@@ -1,4 +1,4 @@
-# Gabarit .Rmd de mémoire de maîtrise à l'Université Laval
+# memoire-ulaval
 
 Voici un gabarit .Rmd pour mémoire de maîtrise conforme aux normes de la [Faculté des études supérieures et postdoctorales](https://www.fesp.ulaval.ca/memoires-et-theses) de l'Université Laval.
 
