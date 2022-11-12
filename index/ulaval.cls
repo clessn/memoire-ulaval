@@ -10,6 +10,7 @@
 % May 2005 Patrick Carlisle Table of contents chapter definition
 % 2004-2005 Ben Salzberg (BTS) a variety of tweaks here and in the template
 % 2015 Chester Ismay (CII) modified to create R Markdown template
+% 2022 Judith Bourque modified for Université Laval template
 %
 % Oddities:
 %
@@ -24,7 +25,7 @@
 %
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{reedthesis}[2004/01/27 The Reed College Thesis Class]
+\ProvidesClass{ulaval}[2022/10/12 Université Laval Thesis Class]
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
 \ProcessOptions\relax
 \LoadClass[openany]{book}
@@ -175,7 +176,7 @@
 % 	\clearpage\if@twoside \ifodd\c@page\else
 % 	\thispagestyle{empty}\hbox{}\newpage
 % 	\if@twocolumn\hbox{}\newpage\fi\fi\fi}
-% 
+%
 % \let\RToldcleardoublepage\cleardoublepage
 % \renewcommand{\cleardoublepage}{\RTcleardoublepage}
 
@@ -340,7 +341,7 @@
 
 %% Second cover page
    \cleardoublepage
-  {\fontsize{11}{11} 
+  {\fontsize{11}{11}
   \thispagestyle{empty}
   \null\vfil
   \centerline{\textbf{\@titre}}
