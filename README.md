@@ -62,7 +62,7 @@ Non.
 
 ## J'ai trouvé une erreur. Comment est-ce que je peux vous en informer?
 
-Vous pouvez soumettre l'erreur ou vos suggestions dans l'onglet Issues de ce repo. Afin de faciliter la résolution de problèmes, merci d'inclure un [reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html).
+Vous pouvez soumettre l'erreur ou vos suggestions dans l'onglet Issues de ce repo. Afin de faciliter la résolution de problèmes, merci d'inclure un [exemple minimal reproductible](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html).
 
 # Crédits
 
