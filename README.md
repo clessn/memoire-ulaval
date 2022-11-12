@@ -8,7 +8,7 @@ En même temps de produire un pdf, le knit du fichier `index.Rmd` produit aussi 
 
 # Dossier `/index`
 
-Mis à part ce ReadMe, tout se trouve dans le dossier `/index`. Vous ne devez pas le renommer (car plus rien ne fonctionnera!).
+Mis à part ce ReadMe, tout se trouve dans le dossier `/index`.
 
 ## À l'intérieur du dossier `/index`
 

@@ -1,4 +1,4 @@
-book_filename: "Memoire_PrénomNom"
+book_filename: "Memoire_PrenomNom"
 chapter_name: "Chapitre "
 rmd_files: ["index.Rmd", "01-article1.Rmd", "02-article2.Rmd",
 "03-conclusion.Rmd", "99-references.Rmd"]
