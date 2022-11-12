@@ -62,7 +62,7 @@ Non.
 
 ## J'ai trouvé une erreur. Comment est-ce que je peux vous en informer?
 
-Vous pouvez soumettre l'erreur ou vos suggestions dans l'onglet Issues de ce repo. Afin de faciliter la résolution de problèmes, merci d'inclure un [reprex](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html).
+Vous pouvez soumettre l'erreur ou vos suggestions dans l'onglet Issues de ce repo. Afin de faciliter la résolution de problèmes, merci d'inclure un [exemple minimal reproductible](https://reprex.tidyverse.org/articles/reprex-dos-and-donts.html).
 
 # Crédits
 
@@ -74,4 +74,4 @@ Ce gabarit est basé en partie sur le package [thesisdown](https://github.com/is
 
 # Archive
 
-Le repository archivé [clessn/gabaritRmd_memoireULaval](https://github.com/clessn/gabaritRmd_memoireULaval) contient l'historique de certaines modifications et défis rencontrés.
+Le repository archivé [clessn/gabaritRmd_memoireULaval](https://github.com/clessn/gabaritRmd_memoireULaval) contient l'historique de certaines modifications et défis rencontrés avec ce gabarit.
