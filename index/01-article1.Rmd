@@ -13,6 +13,8 @@
 
 Rédigez ici votre étude.
 
+Vous pouvez citer vos références directement dans le texte [@lewis2008american].
+
 ## References
 
 ## Appendix
