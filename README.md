@@ -6,21 +6,11 @@ En même temps de produire un pdf, le knit du fichier `index.Rmd` produit aussi 
 
 *NB: Ce gabarit n'est pas approuvé officiellement par l'Université Laval. Les gabarits approuvés sont disponibles auprès de la [Faculté des études supérieures et postdoctorales](https://www.fesp.ulaval.ca/memoires-et-theses).*
 
-# Dossier `/index`
+# Contenu
 
 Mis à part ce ReadMe, tout se trouve dans le dossier `/index`.
 
-## À l'intérieur du dossier `/index`
-
-* Le dossier `/_book` va être là où apparaitront vos fichiers pdf et tex après le knit.
-
-* Dans le dossier `/bib`, vous allez ajouter vos sources dans le fichier `bibfile.bib`.
-
-* Le dossier `/csl` contient le bon format pour la bibliographie.
-
-* Vous devez insérer toutes vos figures dans le dossier `/figure`.
-
-* Le dossier `/_misc` contient un ramassis de trucs utiles, mais à ne pas toucher.
+## `/index`
 
 * `_bookdown.yml` permet de renommer vos fichiers pdf et tex et d'indiquer les noms des fichiers Rmd à inclure dans le knit.
 
@@ -28,11 +18,31 @@ Mis à part ce ReadMe, tout se trouve dans le dossier `/index`.
 
 * Ne touchez pas à `chemarr.sty`.
 
-* Le fichier `index.Rmd` est le plus important. C'est ce fichier Rmd que vous «knitterez» pour produire votre pdf et votre tex (qui apparaitront dans `/_book`). Vous pourrez rédiger l'introduction de votre mémoire au bas de ce fichier, et inscrire vos informations pour la page titre en haut.
+* `index.Rmd` est le fichier le plus important. C'est ce fichier Rmd que vous «knitterez» pour produire votre pdf et votre tex (qui apparaitront dans `/_book`). Vous pourrez rédiger l'introduction de votre mémoire au bas de ce fichier, et inscrire vos informations pour la page titre en haut.
 
 * `template.tex` contient le code pour produire le format de votre mémoire. Normalement, à moins de problème ou de demande de modification, vous ne devriez rien y changer.
 
 * `ulaval.cls` contient les normes ULaval pour le mémoire. Normalement, à moins de problème ou de demande de modification (comme l'année, à la ligne 337), vous ne devriez rien y changer.
+
+## `/_book`
+
+* Le dossier `/_book` va être là où apparaitront vos fichiers pdf et tex après le knit.
+
+## `/bib`
+
+* Dans le dossier `/bib`, vous allez ajouter vos sources dans le fichier `bibfile.bib`.
+
+## `/csl`
+
+* Le dossier `/csl` contient le bon format pour la bibliographie.
+
+## `/figure`
+
+* Vous devez insérer toutes vos figures dans le dossier `/figure`.
+
+## `/_misc`
+
+* Le dossier `/_misc` contient un ramassis de trucs utiles, mais à ne pas toucher.
 
 # Comment utiliser ce gabarit
 
