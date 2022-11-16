@@ -13,7 +13,7 @@
 
 Rédigez ici votre étude.
 
-Vous pouvez citer vos références directement dans le texte [@lewis2008american].
+Vous pouvez citer vos références directement dans le texte [@lewis2008american]. Les références peuvent inclure le numéro de la page [@alford2005political, 13] ainsi que plusieurs références combinées [@converse2006nature; @page2010rational; @iyengar2010news].
 
 ## References
 
