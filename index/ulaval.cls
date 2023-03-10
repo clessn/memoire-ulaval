@@ -320,7 +320,7 @@
 
   \begin{center}
     \setcounter{page}{1}
-    \includegraphics[height=20mm,keepaspectratio=true]{ul_p}
+    \includegraphics[height=20mm,keepaspectratio=true]{figure/ul_p}
     \null\vfil
     {\fontsize{16}{14}\selectfont \textbf{\@titre}}
     \vfil
